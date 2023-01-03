@@ -1,0 +1,7 @@
+.layout {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #202124;
+  padding: 2% 4%;
+  position: relative;
+}

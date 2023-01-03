@@ -1,0 +1,36 @@
+.icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 15px;
+  cursor: pointer;
+  margin: 10px;
+  user-select: none;
+  width: 150px;
+  height: 180px;
+}
+
+.selected {
+  border: 1px solid var(--blue);
+}
+
+.icon:hover {
+  background-color: #303133;
+}
+
+.icon p {
+  font-size: 0.6em;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .icon {
+    transform: scale(0.8);
+  }
+
+  .icon p {
+    font-size: 1em;
+  }
+}

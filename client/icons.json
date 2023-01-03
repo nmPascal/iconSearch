@@ -1,0 +1,5395 @@
+﻿[
+  {
+    "title": "Brassiere",
+    "filePath": "/SVG/Clothes/Brassiere.svg",
+    "tags": [
+      "brassiere",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Briefcase",
+    "filePath": "/SVG/Clothes/Briefcase.svg",
+    "tags": [
+      "briefcase",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Cap",
+    "filePath": "/SVG/Clothes/Cap.svg",
+    "tags": [
+      "cap",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Crown",
+    "filePath": "/SVG/Clothes/Crown.svg",
+    "tags": [
+      "crown",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Dress",
+    "filePath": "/SVG/Clothes/Dress.svg",
+    "tags": [
+      "dress",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Hanger",
+    "filePath": "/SVG/Clothes/Hanger.svg",
+    "tags": [
+      "hanger",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Hat",
+    "filePath": "/SVG/Clothes/Hat.svg",
+    "tags": [
+      "hat",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Panties",
+    "filePath": "/SVG/Clothes/Panties.svg",
+    "tags": [
+      "panties",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Shirt",
+    "filePath": "/SVG/Clothes/Shirt.svg",
+    "tags": [
+      "shirt",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Shoes",
+    "filePath": "/SVG/Clothes/Shoes.svg",
+    "tags": [
+      "shoes",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Shorts",
+    "filePath": "/SVG/Clothes/Shorts.svg",
+    "tags": [
+      "shorts",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Sneakers",
+    "filePath": "/SVG/Clothes/Sneakers.svg",
+    "tags": [
+      "sneakers",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Socks",
+    "filePath": "/SVG/Clothes/Socks.svg",
+    "tags": [
+      "socks",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Sun-glasses",
+    "filePath": "/SVG/Clothes/Sun-glasses.svg",
+    "tags": [
+      "sun",
+      "glasses",
+      "clothes"
+    ]
+  },
+  {
+    "title": "T-Shirt",
+    "filePath": "/SVG/Clothes/T-Shirt.svg",
+    "tags": [
+      "t",
+      "shirt",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Tie",
+    "filePath": "/SVG/Clothes/Tie.svg",
+    "tags": [
+      "tie",
+      "clothes"
+    ]
+  },
+  {
+    "title": "Backspace",
+    "filePath": "/SVG/Code/Backspace.svg",
+    "tags": [
+      "backspace",
+      "code"
+    ]
+  },
+  {
+    "title": "CMD",
+    "filePath": "/SVG/Code/CMD.svg",
+    "tags": [
+      "cmd",
+      "code"
+    ]
+  },
+  {
+    "title": "Code",
+    "filePath": "/SVG/Code/Code.svg",
+    "tags": [
+      "code",
+      "code"
+    ]
+  },
+  {
+    "title": "Commit",
+    "filePath": "/SVG/Code/Commit.svg",
+    "tags": [
+      "commit",
+      "code"
+    ]
+  },
+  {
+    "title": "Compiling",
+    "filePath": "/SVG/Code/Compiling.svg",
+    "tags": [
+      "compiling",
+      "code"
+    ]
+  },
+  {
+    "title": "Control",
+    "filePath": "/SVG/Code/Control.svg",
+    "tags": [
+      "control",
+      "code"
+    ]
+  },
+  {
+    "title": "Done-circle",
+    "filePath": "/SVG/Code/Done-circle.svg",
+    "tags": [
+      "done",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Error-circle",
+    "filePath": "/SVG/Code/Error-circle.svg",
+    "tags": [
+      "error",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Git#1",
+    "filePath": "/SVG/Code/Git#1.svg",
+    "tags": [
+      "git",
+      "code"
+    ]
+  },
+  {
+    "title": "Git#2",
+    "filePath": "/SVG/Code/Git#2.svg",
+    "tags": [
+      "git",
+      "code"
+    ]
+  },
+  {
+    "title": "Git#3",
+    "filePath": "/SVG/Code/Git#3.svg",
+    "tags": [
+      "git",
+      "code"
+    ]
+  },
+  {
+    "title": "Git#4",
+    "filePath": "/SVG/Code/Git#4.svg",
+    "tags": [
+      "git",
+      "code"
+    ]
+  },
+  {
+    "title": "Github",
+    "filePath": "/SVG/Code/Github.svg",
+    "tags": [
+      "github",
+      "code"
+    ]
+  },
+  {
+    "title": "Info-circle",
+    "filePath": "/SVG/Code/Info-circle.svg",
+    "tags": [
+      "info",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Left-circle",
+    "filePath": "/SVG/Code/Left-circle.svg",
+    "tags": [
+      "left",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Loading",
+    "filePath": "/SVG/Code/Loading.svg",
+    "tags": [
+      "loading",
+      "code"
+    ]
+  },
+  {
+    "title": "Lock-circle",
+    "filePath": "/SVG/Code/Lock-circle.svg",
+    "tags": [
+      "lock",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Lock-overturning",
+    "filePath": "/SVG/Code/Lock-overturning.svg",
+    "tags": [
+      "lock",
+      "overturning",
+      "code"
+    ]
+  },
+  {
+    "title": "Minus",
+    "filePath": "/SVG/Code/Minus.svg",
+    "tags": [
+      "minus",
+      "code"
+    ]
+  },
+  {
+    "title": "Option",
+    "filePath": "/SVG/Code/Option.svg",
+    "tags": [
+      "option",
+      "code"
+    ]
+  },
+  {
+    "title": "Plus",
+    "filePath": "/SVG/Code/Plus.svg",
+    "tags": [
+      "plus",
+      "code"
+    ]
+  },
+  {
+    "title": "Puzzle",
+    "filePath": "/SVG/Code/Puzzle.svg",
+    "tags": [
+      "puzzle",
+      "code"
+    ]
+  },
+  {
+    "title": "Question-circle",
+    "filePath": "/SVG/Code/Question-circle.svg",
+    "tags": [
+      "question",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Right-circle",
+    "filePath": "/SVG/Code/Right-circle.svg",
+    "tags": [
+      "right",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Settings#4",
+    "filePath": "/SVG/Code/Settings#4.svg",
+    "tags": [
+      "settings",
+      "code"
+    ]
+  },
+  {
+    "title": "Shift",
+    "filePath": "/SVG/Code/Shift.svg",
+    "tags": [
+      "shift",
+      "code"
+    ]
+  },
+  {
+    "title": "Spy",
+    "filePath": "/SVG/Code/Spy.svg",
+    "tags": [
+      "spy",
+      "code"
+    ]
+  },
+  {
+    "title": "Stop",
+    "filePath": "/SVG/Code/Stop.svg",
+    "tags": [
+      "stop",
+      "code"
+    ]
+  },
+  {
+    "title": "Terminal",
+    "filePath": "/SVG/Code/Terminal.svg",
+    "tags": [
+      "terminal",
+      "code"
+    ]
+  },
+  {
+    "title": "Thunder-circle",
+    "filePath": "/SVG/Code/Thunder-circle.svg",
+    "tags": [
+      "thunder",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Time-schedule",
+    "filePath": "/SVG/Code/Time-schedule.svg",
+    "tags": [
+      "time",
+      "schedule",
+      "code"
+    ]
+  },
+  {
+    "title": "Warning-1-circle",
+    "filePath": "/SVG/Code/Warning-1-circle.svg",
+    "tags": [
+      "warning",
+      "circle",
+      "code"
+    ]
+  },
+  {
+    "title": "Warning-2",
+    "filePath": "/SVG/Code/Warning-2.svg",
+    "tags": [
+      "warning",
+      "code"
+    ]
+  },
+  {
+    "title": "Active-call",
+    "filePath": "/SVG/Communication/Active-call.svg",
+    "tags": [
+      "active",
+      "call",
+      "communication"
+    ]
+  },
+  {
+    "title": "Add-user",
+    "filePath": "/SVG/Communication/Add-user.svg",
+    "tags": [
+      "add",
+      "user",
+      "communication"
+    ]
+  },
+  {
+    "title": "Address-card",
+    "filePath": "/SVG/Communication/Address-card.svg",
+    "tags": [
+      "address",
+      "card",
+      "communication"
+    ]
+  },
+  {
+    "title": "Adress-book#1",
+    "filePath": "/SVG/Communication/Adress-book#1.svg",
+    "tags": [
+      "adress",
+      "book",
+      "communication"
+    ]
+  },
+  {
+    "title": "Adress-book#2",
+    "filePath": "/SVG/Communication/Adress-book#2.svg",
+    "tags": [
+      "adress",
+      "book",
+      "communication"
+    ]
+  },
+  {
+    "title": "Archive",
+    "filePath": "/SVG/Communication/Archive.svg",
+    "tags": [
+      "archive",
+      "communication"
+    ]
+  },
+  {
+    "title": "Call#1",
+    "filePath": "/SVG/Communication/Call#1.svg",
+    "tags": [
+      "call",
+      "communication"
+    ]
+  },
+  {
+    "title": "Call",
+    "filePath": "/SVG/Communication/Call.svg",
+    "tags": [
+      "call",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat#1",
+    "filePath": "/SVG/Communication/Chat#1.svg",
+    "tags": [
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat#2",
+    "filePath": "/SVG/Communication/Chat#2.svg",
+    "tags": [
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat#4",
+    "filePath": "/SVG/Communication/Chat#4.svg",
+    "tags": [
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat#5",
+    "filePath": "/SVG/Communication/Chat#5.svg",
+    "tags": [
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat#6",
+    "filePath": "/SVG/Communication/Chat#6.svg",
+    "tags": [
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat-check",
+    "filePath": "/SVG/Communication/Chat-check.svg",
+    "tags": [
+      "chat",
+      "check",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat-error",
+    "filePath": "/SVG/Communication/Chat-error.svg",
+    "tags": [
+      "chat",
+      "error",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat-locked",
+    "filePath": "/SVG/Communication/Chat-locked.svg",
+    "tags": [
+      "chat",
+      "locked",
+      "communication"
+    ]
+  },
+  {
+    "title": "Chat-smile",
+    "filePath": "/SVG/Communication/Chat-smile.svg",
+    "tags": [
+      "chat",
+      "smile",
+      "communication"
+    ]
+  },
+  {
+    "title": "Clipboard-check",
+    "filePath": "/SVG/Communication/Clipboard-check.svg",
+    "tags": [
+      "clipboard",
+      "check",
+      "communication"
+    ]
+  },
+  {
+    "title": "Clipboard-list",
+    "filePath": "/SVG/Communication/Clipboard-list.svg",
+    "tags": [
+      "clipboard",
+      "list",
+      "communication"
+    ]
+  },
+  {
+    "title": "Contact#1",
+    "filePath": "/SVG/Communication/Contact#1.svg",
+    "tags": [
+      "contact",
+      "communication"
+    ]
+  },
+  {
+    "title": "Delete-user",
+    "filePath": "/SVG/Communication/Delete-user.svg",
+    "tags": [
+      "delete",
+      "user",
+      "communication"
+    ]
+  },
+  {
+    "title": "Dial-numbers",
+    "filePath": "/SVG/Communication/Dial-numbers.svg",
+    "tags": [
+      "dial",
+      "numbers",
+      "communication"
+    ]
+  },
+  {
+    "title": "Flag",
+    "filePath": "/SVG/Communication/Flag.svg",
+    "tags": [
+      "flag",
+      "communication"
+    ]
+  },
+  {
+    "title": "Forward",
+    "filePath": "/SVG/Communication/Forward.svg",
+    "tags": [
+      "forward",
+      "communication"
+    ]
+  },
+  {
+    "title": "Group-chat",
+    "filePath": "/SVG/Communication/Group-chat.svg",
+    "tags": [
+      "group",
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Group",
+    "filePath": "/SVG/Communication/Group.svg",
+    "tags": [
+      "group",
+      "communication"
+    ]
+  },
+  {
+    "title": "Incoming-box",
+    "filePath": "/SVG/Communication/Incoming-box.svg",
+    "tags": [
+      "incoming",
+      "box",
+      "communication"
+    ]
+  },
+  {
+    "title": "Incoming-call",
+    "filePath": "/SVG/Communication/Incoming-call.svg",
+    "tags": [
+      "incoming",
+      "call",
+      "communication"
+    ]
+  },
+  {
+    "title": "Incoming-mail",
+    "filePath": "/SVG/Communication/Incoming-mail.svg",
+    "tags": [
+      "incoming",
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-@",
+    "filePath": "/SVG/Communication/Mail-@.svg",
+    "tags": [
+      "mail",
+      "@",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-attachment",
+    "filePath": "/SVG/Communication/Mail-attachment.svg",
+    "tags": [
+      "mail",
+      "attachment",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-box",
+    "filePath": "/SVG/Communication/Mail-box.svg",
+    "tags": [
+      "mail",
+      "box",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-error",
+    "filePath": "/SVG/Communication/Mail-error.svg",
+    "tags": [
+      "mail",
+      "error",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-heart",
+    "filePath": "/SVG/Communication/Mail-heart.svg",
+    "tags": [
+      "mail",
+      "heart",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-locked",
+    "filePath": "/SVG/Communication/Mail-locked.svg",
+    "tags": [
+      "mail",
+      "locked",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-notification",
+    "filePath": "/SVG/Communication/Mail-notification.svg",
+    "tags": [
+      "mail",
+      "notification",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-opened",
+    "filePath": "/SVG/Communication/Mail-opened.svg",
+    "tags": [
+      "mail",
+      "opened",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail-unocked",
+    "filePath": "/SVG/Communication/Mail-unocked.svg",
+    "tags": [
+      "mail",
+      "unocked",
+      "communication"
+    ]
+  },
+  {
+    "title": "Mail",
+    "filePath": "/SVG/Communication/Mail.svg",
+    "tags": [
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Missed-call",
+    "filePath": "/SVG/Communication/Missed-call.svg",
+    "tags": [
+      "missed",
+      "call",
+      "communication"
+    ]
+  },
+  {
+    "title": "Outgoing-box",
+    "filePath": "/SVG/Communication/Outgoing-box.svg",
+    "tags": [
+      "outgoing",
+      "box",
+      "communication"
+    ]
+  },
+  {
+    "title": "Outgoing-call",
+    "filePath": "/SVG/Communication/Outgoing-call.svg",
+    "tags": [
+      "outgoing",
+      "call",
+      "communication"
+    ]
+  },
+  {
+    "title": "Outgoing-mail",
+    "filePath": "/SVG/Communication/Outgoing-mail.svg",
+    "tags": [
+      "outgoing",
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Readed-mail",
+    "filePath": "/SVG/Communication/Readed-mail.svg",
+    "tags": [
+      "readed",
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Reply-all",
+    "filePath": "/SVG/Communication/Reply-all.svg",
+    "tags": [
+      "reply",
+      "all",
+      "communication"
+    ]
+  },
+  {
+    "title": "Reply",
+    "filePath": "/SVG/Communication/Reply.svg",
+    "tags": [
+      "reply",
+      "communication"
+    ]
+  },
+  {
+    "title": "Right",
+    "filePath": "/SVG/Communication/Right.svg",
+    "tags": [
+      "right",
+      "communication"
+    ]
+  },
+  {
+    "title": "RSS",
+    "filePath": "/SVG/Communication/RSS.svg",
+    "tags": [
+      "rss",
+      "communication"
+    ]
+  },
+  {
+    "title": "Safe-chat",
+    "filePath": "/SVG/Communication/Safe-chat.svg",
+    "tags": [
+      "safe",
+      "chat",
+      "communication"
+    ]
+  },
+  {
+    "title": "Send",
+    "filePath": "/SVG/Communication/Send.svg",
+    "tags": [
+      "send",
+      "communication"
+    ]
+  },
+  {
+    "title": "Sending mail",
+    "filePath": "/SVG/Communication/Sending mail.svg",
+    "tags": [
+      "sending",
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Sending",
+    "filePath": "/SVG/Communication/Sending.svg",
+    "tags": [
+      "sending",
+      "communication"
+    ]
+  },
+  {
+    "title": "Share",
+    "filePath": "/SVG/Communication/Share.svg",
+    "tags": [
+      "share",
+      "communication"
+    ]
+  },
+  {
+    "title": "Shield-thunder",
+    "filePath": "/SVG/Communication/Shield-thunder.svg",
+    "tags": [
+      "shield",
+      "thunder",
+      "communication"
+    ]
+  },
+  {
+    "title": "Shield-user",
+    "filePath": "/SVG/Communication/Shield-user.svg",
+    "tags": [
+      "shield",
+      "user",
+      "communication"
+    ]
+  },
+  {
+    "title": "Snoozed-mail",
+    "filePath": "/SVG/Communication/Snoozed-mail.svg",
+    "tags": [
+      "snoozed",
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Spam",
+    "filePath": "/SVG/Communication/Spam.svg",
+    "tags": [
+      "spam",
+      "communication"
+    ]
+  },
+  {
+    "title": "Thumbtack",
+    "filePath": "/SVG/Communication/Thumbtack.svg",
+    "tags": [
+      "thumbtack",
+      "communication"
+    ]
+  },
+  {
+    "title": "Urgent-mail",
+    "filePath": "/SVG/Communication/Urgent-mail.svg",
+    "tags": [
+      "urgent",
+      "mail",
+      "communication"
+    ]
+  },
+  {
+    "title": "Write",
+    "filePath": "/SVG/Communication/Write.svg",
+    "tags": [
+      "write",
+      "communication"
+    ]
+  },
+  {
+    "title": "Baking-glove",
+    "filePath": "/SVG/Cooking/Baking-glove.svg",
+    "tags": [
+      "baking",
+      "glove",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Bowl",
+    "filePath": "/SVG/Cooking/Bowl.svg",
+    "tags": [
+      "bowl",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Chef",
+    "filePath": "/SVG/Cooking/Chef.svg",
+    "tags": [
+      "chef",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Cooking-book",
+    "filePath": "/SVG/Cooking/Cooking-book.svg",
+    "tags": [
+      "cooking",
+      "book",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Cooking-pot",
+    "filePath": "/SVG/Cooking/Cooking-pot.svg",
+    "tags": [
+      "cooking",
+      "pot",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Cutting board",
+    "filePath": "/SVG/Cooking/Cutting board.svg",
+    "tags": [
+      "cutting",
+      "board",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Dinner",
+    "filePath": "/SVG/Cooking/Dinner.svg",
+    "tags": [
+      "dinner",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Dish",
+    "filePath": "/SVG/Cooking/Dish.svg",
+    "tags": [
+      "dish",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Dishes",
+    "filePath": "/SVG/Cooking/Dishes.svg",
+    "tags": [
+      "dishes",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Fork-spoon-knife",
+    "filePath": "/SVG/Cooking/Fork-spoon-knife.svg",
+    "tags": [
+      "fork",
+      "spoon",
+      "knife",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Fork-spoon",
+    "filePath": "/SVG/Cooking/Fork-spoon.svg",
+    "tags": [
+      "fork",
+      "spoon",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Fork",
+    "filePath": "/SVG/Cooking/Fork.svg",
+    "tags": [
+      "fork",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Frying-pan",
+    "filePath": "/SVG/Cooking/Frying-pan.svg",
+    "tags": [
+      "frying",
+      "pan",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Grater",
+    "filePath": "/SVG/Cooking/Grater.svg",
+    "tags": [
+      "grater",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Kitchen-scale",
+    "filePath": "/SVG/Cooking/Kitchen-scale.svg",
+    "tags": [
+      "kitchen",
+      "scale",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Knife#1",
+    "filePath": "/SVG/Cooking/Knife#1.svg",
+    "tags": [
+      "knife",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Knife#2",
+    "filePath": "/SVG/Cooking/Knife#2.svg",
+    "tags": [
+      "knife",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Knife&fork#1",
+    "filePath": "/SVG/Cooking/Knife&fork#1.svg",
+    "tags": [
+      "knife&fork",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Knife&fork#2",
+    "filePath": "/SVG/Cooking/Knife&fork#2.svg",
+    "tags": [
+      "knife&fork",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Ladle",
+    "filePath": "/SVG/Cooking/Ladle.svg",
+    "tags": [
+      "ladle",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Rolling-pin",
+    "filePath": "/SVG/Cooking/Rolling-pin.svg",
+    "tags": [
+      "rolling",
+      "pin",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Saucepan",
+    "filePath": "/SVG/Cooking/Saucepan.svg",
+    "tags": [
+      "saucepan",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Shovel",
+    "filePath": "/SVG/Cooking/Shovel.svg",
+    "tags": [
+      "shovel",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Sieve",
+    "filePath": "/SVG/Cooking/Sieve.svg",
+    "tags": [
+      "sieve",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Spoon",
+    "filePath": "/SVG/Cooking/Spoon.svg",
+    "tags": [
+      "spoon",
+      "cooking"
+    ]
+  },
+  {
+    "title": "Adjust",
+    "filePath": "/SVG/Design/Adjust.svg",
+    "tags": [
+      "adjust",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-center-down",
+    "filePath": "/SVG/Design/Anchor-center-down.svg",
+    "tags": [
+      "anchor",
+      "center",
+      "down",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-center-up",
+    "filePath": "/SVG/Design/Anchor-center-up.svg",
+    "tags": [
+      "anchor",
+      "center",
+      "up",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-center",
+    "filePath": "/SVG/Design/Anchor-center.svg",
+    "tags": [
+      "anchor",
+      "center",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-left-down",
+    "filePath": "/SVG/Design/Anchor-left-down.svg",
+    "tags": [
+      "anchor",
+      "left",
+      "down",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-left-up",
+    "filePath": "/SVG/Design/Anchor-left-up.svg",
+    "tags": [
+      "anchor",
+      "left",
+      "up",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-left",
+    "filePath": "/SVG/Design/Anchor-left.svg",
+    "tags": [
+      "anchor",
+      "left",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-right-down",
+    "filePath": "/SVG/Design/Anchor-right-down.svg",
+    "tags": [
+      "anchor",
+      "right",
+      "down",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-right-up",
+    "filePath": "/SVG/Design/Anchor-right-up.svg",
+    "tags": [
+      "anchor",
+      "right",
+      "up",
+      "design"
+    ]
+  },
+  {
+    "title": "Anchor-right",
+    "filePath": "/SVG/Design/Anchor-right.svg",
+    "tags": [
+      "anchor",
+      "right",
+      "design"
+    ]
+  },
+  {
+    "title": "Arrows",
+    "filePath": "/SVG/Design/Arrows.svg",
+    "tags": [
+      "arrows",
+      "design"
+    ]
+  },
+  {
+    "title": "Bezier-curve",
+    "filePath": "/SVG/Design/Bezier-curve.svg",
+    "tags": [
+      "bezier",
+      "curve",
+      "design"
+    ]
+  },
+  {
+    "title": "Border",
+    "filePath": "/SVG/Design/Border.svg",
+    "tags": [
+      "border",
+      "design"
+    ]
+  },
+  {
+    "title": "Brush",
+    "filePath": "/SVG/Design/Brush.svg",
+    "tags": [
+      "brush",
+      "design"
+    ]
+  },
+  {
+    "title": "Bucket",
+    "filePath": "/SVG/Design/Bucket.svg",
+    "tags": [
+      "bucket",
+      "design"
+    ]
+  },
+  {
+    "title": "Cap-1",
+    "filePath": "/SVG/Design/Cap-1.svg",
+    "tags": [
+      "cap",
+      "design"
+    ]
+  },
+  {
+    "title": "Cap-2",
+    "filePath": "/SVG/Design/Cap-2.svg",
+    "tags": [
+      "cap",
+      "design"
+    ]
+  },
+  {
+    "title": "Cap-3",
+    "filePath": "/SVG/Design/Cap-3.svg",
+    "tags": [
+      "cap",
+      "design"
+    ]
+  },
+  {
+    "title": "Circle",
+    "filePath": "/SVG/Design/Circle.svg",
+    "tags": [
+      "circle",
+      "design"
+    ]
+  },
+  {
+    "title": "Color-profile",
+    "filePath": "/SVG/Design/Color-profile.svg",
+    "tags": [
+      "color",
+      "profile",
+      "design"
+    ]
+  },
+  {
+    "title": "Color",
+    "filePath": "/SVG/Design/Color.svg",
+    "tags": [
+      "color",
+      "design"
+    ]
+  },
+  {
+    "title": "Component",
+    "filePath": "/SVG/Design/Component.svg",
+    "tags": [
+      "component",
+      "design"
+    ]
+  },
+  {
+    "title": "Crop",
+    "filePath": "/SVG/Design/Crop.svg",
+    "tags": [
+      "crop",
+      "design"
+    ]
+  },
+  {
+    "title": "Difference",
+    "filePath": "/SVG/Design/Difference.svg",
+    "tags": [
+      "difference",
+      "design"
+    ]
+  },
+  {
+    "title": "Edit",
+    "filePath": "/SVG/Design/Edit.svg",
+    "tags": [
+      "edit",
+      "design"
+    ]
+  },
+  {
+    "title": "Eraser",
+    "filePath": "/SVG/Design/Eraser.svg",
+    "tags": [
+      "eraser",
+      "design"
+    ]
+  },
+  {
+    "title": "Flatten",
+    "filePath": "/SVG/Design/Flatten.svg",
+    "tags": [
+      "flatten",
+      "design"
+    ]
+  },
+  {
+    "title": "Flip-horizontal",
+    "filePath": "/SVG/Design/Flip-horizontal.svg",
+    "tags": [
+      "flip",
+      "horizontal",
+      "design"
+    ]
+  },
+  {
+    "title": "Flip-vertical",
+    "filePath": "/SVG/Design/Flip-vertical.svg",
+    "tags": [
+      "flip",
+      "vertical",
+      "design"
+    ]
+  },
+  {
+    "title": "Horizontal",
+    "filePath": "/SVG/Design/Horizontal.svg",
+    "tags": [
+      "horizontal",
+      "design"
+    ]
+  },
+  {
+    "title": "Image",
+    "filePath": "/SVG/Design/Image.svg",
+    "tags": [
+      "image",
+      "design"
+    ]
+  },
+  {
+    "title": "Interselect",
+    "filePath": "/SVG/Design/Interselect.svg",
+    "tags": [
+      "interselect",
+      "design"
+    ]
+  },
+  {
+    "title": "Join-1",
+    "filePath": "/SVG/Design/Join-1.svg",
+    "tags": [
+      "join",
+      "design"
+    ]
+  },
+  {
+    "title": "Join-2",
+    "filePath": "/SVG/Design/Join-2.svg",
+    "tags": [
+      "join",
+      "design"
+    ]
+  },
+  {
+    "title": "Join-3",
+    "filePath": "/SVG/Design/Join-3.svg",
+    "tags": [
+      "join",
+      "design"
+    ]
+  },
+  {
+    "title": "Layers",
+    "filePath": "/SVG/Design/Layers.svg",
+    "tags": [
+      "layers",
+      "design"
+    ]
+  },
+  {
+    "title": "Line",
+    "filePath": "/SVG/Design/Line.svg",
+    "tags": [
+      "line",
+      "design"
+    ]
+  },
+  {
+    "title": "Magic",
+    "filePath": "/SVG/Design/Magic.svg",
+    "tags": [
+      "magic",
+      "design"
+    ]
+  },
+  {
+    "title": "Mask",
+    "filePath": "/SVG/Design/Mask.svg",
+    "tags": [
+      "mask",
+      "design"
+    ]
+  },
+  {
+    "title": "Patch",
+    "filePath": "/SVG/Design/Patch.svg",
+    "tags": [
+      "patch",
+      "design"
+    ]
+  },
+  {
+    "title": "Pen&ruller",
+    "filePath": "/SVG/Design/Pen&ruller.svg",
+    "tags": [
+      "pen&ruller",
+      "design"
+    ]
+  },
+  {
+    "title": "Pen-tool-vector",
+    "filePath": "/SVG/Design/Pen-tool-vector.svg",
+    "tags": [
+      "pen",
+      "tool",
+      "vector",
+      "design"
+    ]
+  },
+  {
+    "title": "Pencil",
+    "filePath": "/SVG/Design/Pencil.svg",
+    "tags": [
+      "pencil",
+      "design"
+    ]
+  },
+  {
+    "title": "Picker",
+    "filePath": "/SVG/Design/Picker.svg",
+    "tags": [
+      "picker",
+      "design"
+    ]
+  },
+  {
+    "title": "Pixels",
+    "filePath": "/SVG/Design/Pixels.svg",
+    "tags": [
+      "pixels",
+      "design"
+    ]
+  },
+  {
+    "title": "Polygon",
+    "filePath": "/SVG/Design/Polygon.svg",
+    "tags": [
+      "polygon",
+      "design"
+    ]
+  },
+  {
+    "title": "Position",
+    "filePath": "/SVG/Design/Position.svg",
+    "tags": [
+      "position",
+      "design"
+    ]
+  },
+  {
+    "title": "Rectangle",
+    "filePath": "/SVG/Design/Rectangle.svg",
+    "tags": [
+      "rectangle",
+      "design"
+    ]
+  },
+  {
+    "title": "Saturation",
+    "filePath": "/SVG/Design/Saturation.svg",
+    "tags": [
+      "saturation",
+      "design"
+    ]
+  },
+  {
+    "title": "Select",
+    "filePath": "/SVG/Design/Select.svg",
+    "tags": [
+      "select",
+      "design"
+    ]
+  },
+  {
+    "title": "Sketch",
+    "filePath": "/SVG/Design/Sketch.svg",
+    "tags": [
+      "sketch",
+      "design"
+    ]
+  },
+  {
+    "title": "Stamp",
+    "filePath": "/SVG/Design/Stamp.svg",
+    "tags": [
+      "stamp",
+      "design"
+    ]
+  },
+  {
+    "title": "Substract",
+    "filePath": "/SVG/Design/Substract.svg",
+    "tags": [
+      "substract",
+      "design"
+    ]
+  },
+  {
+    "title": "Target",
+    "filePath": "/SVG/Design/Target.svg",
+    "tags": [
+      "target",
+      "design"
+    ]
+  },
+  {
+    "title": "Triangle",
+    "filePath": "/SVG/Design/Triangle.svg",
+    "tags": [
+      "triangle",
+      "design"
+    ]
+  },
+  {
+    "title": "Union",
+    "filePath": "/SVG/Design/Union.svg",
+    "tags": [
+      "union",
+      "design"
+    ]
+  },
+  {
+    "title": "Vertical",
+    "filePath": "/SVG/Design/Vertical.svg",
+    "tags": [
+      "vertical",
+      "design"
+    ]
+  },
+  {
+    "title": "Zoom minus",
+    "filePath": "/SVG/Design/Zoom minus.svg",
+    "tags": [
+      "zoom",
+      "minus",
+      "design"
+    ]
+  },
+  {
+    "title": "Zoom plus",
+    "filePath": "/SVG/Design/Zoom plus.svg",
+    "tags": [
+      "zoom",
+      "plus",
+      "design"
+    ]
+  },
+  {
+    "title": "Airpods",
+    "filePath": "/SVG/Devices/Airpods.svg",
+    "tags": [
+      "airpods",
+      "devices"
+    ]
+  },
+  {
+    "title": "Android",
+    "filePath": "/SVG/Devices/Android.svg",
+    "tags": [
+      "android",
+      "devices"
+    ]
+  },
+  {
+    "title": "Apple-Watch",
+    "filePath": "/SVG/Devices/Apple-Watch.svg",
+    "tags": [
+      "apple",
+      "watch",
+      "devices"
+    ]
+  },
+  {
+    "title": "Battery-charging",
+    "filePath": "/SVG/Devices/Battery-charging.svg",
+    "tags": [
+      "battery",
+      "charging",
+      "devices"
+    ]
+  },
+  {
+    "title": "Battery-empty",
+    "filePath": "/SVG/Devices/Battery-empty.svg",
+    "tags": [
+      "battery",
+      "empty",
+      "devices"
+    ]
+  },
+  {
+    "title": "Battery-full",
+    "filePath": "/SVG/Devices/Battery-full.svg",
+    "tags": [
+      "battery",
+      "full",
+      "devices"
+    ]
+  },
+  {
+    "title": "Battery-half",
+    "filePath": "/SVG/Devices/Battery-half.svg",
+    "tags": [
+      "battery",
+      "half",
+      "devices"
+    ]
+  },
+  {
+    "title": "Bluetooth",
+    "filePath": "/SVG/Devices/Bluetooth.svg",
+    "tags": [
+      "bluetooth",
+      "devices"
+    ]
+  },
+  {
+    "title": "Camera",
+    "filePath": "/SVG/Devices/Camera.svg",
+    "tags": [
+      "camera",
+      "devices"
+    ]
+  },
+  {
+    "title": "Cardboard-vr",
+    "filePath": "/SVG/Devices/Cardboard-vr.svg",
+    "tags": [
+      "cardboard",
+      "vr",
+      "devices"
+    ]
+  },
+  {
+    "title": "Cassete",
+    "filePath": "/SVG/Devices/Cassete.svg",
+    "tags": [
+      "cassete",
+      "devices"
+    ]
+  },
+  {
+    "title": "CPU#1",
+    "filePath": "/SVG/Devices/CPU#1.svg",
+    "tags": [
+      "cpu",
+      "devices"
+    ]
+  },
+  {
+    "title": "CPU#2",
+    "filePath": "/SVG/Devices/CPU#2.svg",
+    "tags": [
+      "cpu",
+      "devices"
+    ]
+  },
+  {
+    "title": "Diagnostics",
+    "filePath": "/SVG/Devices/Diagnostics.svg",
+    "tags": [
+      "diagnostics",
+      "devices"
+    ]
+  },
+  {
+    "title": "Display#1",
+    "filePath": "/SVG/Devices/Display#1.svg",
+    "tags": [
+      "display",
+      "devices"
+    ]
+  },
+  {
+    "title": "Display#2",
+    "filePath": "/SVG/Devices/Display#2.svg",
+    "tags": [
+      "display",
+      "devices"
+    ]
+  },
+  {
+    "title": "Display#3",
+    "filePath": "/SVG/Devices/Display#3.svg",
+    "tags": [
+      "display",
+      "devices"
+    ]
+  },
+  {
+    "title": "Gameboy",
+    "filePath": "/SVG/Devices/Gameboy.svg",
+    "tags": [
+      "gameboy",
+      "devices"
+    ]
+  },
+  {
+    "title": "Gamepad#1",
+    "filePath": "/SVG/Devices/Gamepad#1.svg",
+    "tags": [
+      "gamepad",
+      "devices"
+    ]
+  },
+  {
+    "title": "Gamepad#2",
+    "filePath": "/SVG/Devices/Gamepad#2.svg",
+    "tags": [
+      "gamepad",
+      "devices"
+    ]
+  },
+  {
+    "title": "Generator",
+    "filePath": "/SVG/Devices/Generator.svg",
+    "tags": [
+      "generator",
+      "devices"
+    ]
+  },
+  {
+    "title": "Hard-drive",
+    "filePath": "/SVG/Devices/Hard-drive.svg",
+    "tags": [
+      "hard",
+      "drive",
+      "devices"
+    ]
+  },
+  {
+    "title": "Headphones",
+    "filePath": "/SVG/Devices/Headphones.svg",
+    "tags": [
+      "headphones",
+      "devices"
+    ]
+  },
+  {
+    "title": "Homepod",
+    "filePath": "/SVG/Devices/Homepod.svg",
+    "tags": [
+      "homepod",
+      "devices"
+    ]
+  },
+  {
+    "title": "iMac",
+    "filePath": "/SVG/Devices/iMac.svg",
+    "tags": [
+      "imac",
+      "devices"
+    ]
+  },
+  {
+    "title": "iPhone-back",
+    "filePath": "/SVG/Devices/iPhone-back.svg",
+    "tags": [
+      "iphone",
+      "back",
+      "devices"
+    ]
+  },
+  {
+    "title": "iPhone-x-back",
+    "filePath": "/SVG/Devices/iPhone-x-back.svg",
+    "tags": [
+      "iphone",
+      "x",
+      "back",
+      "devices"
+    ]
+  },
+  {
+    "title": "iPhone-X",
+    "filePath": "/SVG/Devices/iPhone-X.svg",
+    "tags": [
+      "iphone",
+      "x",
+      "devices"
+    ]
+  },
+  {
+    "title": "Keyboard",
+    "filePath": "/SVG/Devices/Keyboard.svg",
+    "tags": [
+      "keyboard",
+      "devices"
+    ]
+  },
+  {
+    "title": "Laptop-macbook",
+    "filePath": "/SVG/Devices/Laptop-macbook.svg",
+    "tags": [
+      "laptop",
+      "macbook",
+      "devices"
+    ]
+  },
+  {
+    "title": "Laptop",
+    "filePath": "/SVG/Devices/Laptop.svg",
+    "tags": [
+      "laptop",
+      "devices"
+    ]
+  },
+  {
+    "title": "LTE#1",
+    "filePath": "/SVG/Devices/LTE#1.svg",
+    "tags": [
+      "lte",
+      "devices"
+    ]
+  },
+  {
+    "title": "LTE#2",
+    "filePath": "/SVG/Devices/LTE#2.svg",
+    "tags": [
+      "lte",
+      "devices"
+    ]
+  },
+  {
+    "title": "Mic",
+    "filePath": "/SVG/Devices/Mic.svg",
+    "tags": [
+      "mic",
+      "devices"
+    ]
+  },
+  {
+    "title": "Midi",
+    "filePath": "/SVG/Devices/Midi.svg",
+    "tags": [
+      "midi",
+      "devices"
+    ]
+  },
+  {
+    "title": "Mouse",
+    "filePath": "/SVG/Devices/Mouse.svg",
+    "tags": [
+      "mouse",
+      "devices"
+    ]
+  },
+  {
+    "title": "Phone",
+    "filePath": "/SVG/Devices/Phone.svg",
+    "tags": [
+      "phone",
+      "devices"
+    ]
+  },
+  {
+    "title": "Printer",
+    "filePath": "/SVG/Devices/Printer.svg",
+    "tags": [
+      "printer",
+      "devices"
+    ]
+  },
+  {
+    "title": "Radio",
+    "filePath": "/SVG/Devices/Radio.svg",
+    "tags": [
+      "radio",
+      "devices"
+    ]
+  },
+  {
+    "title": "Router#1",
+    "filePath": "/SVG/Devices/Router#1.svg",
+    "tags": [
+      "router",
+      "devices"
+    ]
+  },
+  {
+    "title": "Router#2",
+    "filePath": "/SVG/Devices/Router#2.svg",
+    "tags": [
+      "router",
+      "devices"
+    ]
+  },
+  {
+    "title": "SD-card",
+    "filePath": "/SVG/Devices/SD-card.svg",
+    "tags": [
+      "sd",
+      "card",
+      "devices"
+    ]
+  },
+  {
+    "title": "Server",
+    "filePath": "/SVG/Devices/Server.svg",
+    "tags": [
+      "server",
+      "devices"
+    ]
+  },
+  {
+    "title": "Speaker",
+    "filePath": "/SVG/Devices/Speaker.svg",
+    "tags": [
+      "speaker",
+      "devices"
+    ]
+  },
+  {
+    "title": "Tablet",
+    "filePath": "/SVG/Devices/Tablet.svg",
+    "tags": [
+      "tablet",
+      "devices"
+    ]
+  },
+  {
+    "title": "TV#1",
+    "filePath": "/SVG/Devices/TV#1.svg",
+    "tags": [
+      "tv",
+      "devices"
+    ]
+  },
+  {
+    "title": "TV#2",
+    "filePath": "/SVG/Devices/TV#2.svg",
+    "tags": [
+      "tv",
+      "devices"
+    ]
+  },
+  {
+    "title": "Usb-storage",
+    "filePath": "/SVG/Devices/Usb-storage.svg",
+    "tags": [
+      "usb",
+      "storage",
+      "devices"
+    ]
+  },
+  {
+    "title": "USB",
+    "filePath": "/SVG/Devices/USB.svg",
+    "tags": [
+      "usb",
+      "devices"
+    ]
+  },
+  {
+    "title": "Video-camera",
+    "filePath": "/SVG/Devices/Video-camera.svg",
+    "tags": [
+      "video",
+      "camera",
+      "devices"
+    ]
+  },
+  {
+    "title": "Watch#1",
+    "filePath": "/SVG/Devices/Watch#1.svg",
+    "tags": [
+      "watch",
+      "devices"
+    ]
+  },
+  {
+    "title": "Watch#2",
+    "filePath": "/SVG/Devices/Watch#2.svg",
+    "tags": [
+      "watch",
+      "devices"
+    ]
+  },
+  {
+    "title": "Wi-fi",
+    "filePath": "/SVG/Devices/Wi-fi.svg",
+    "tags": [
+      "wi",
+      "fi",
+      "devices"
+    ]
+  },
+  {
+    "title": "Air-conditioning",
+    "filePath": "/SVG/Electric/Air-conditioning.svg",
+    "tags": [
+      "air",
+      "conditioning",
+      "electric"
+    ]
+  },
+  {
+    "title": "Blender",
+    "filePath": "/SVG/Electric/Blender.svg",
+    "tags": [
+      "blender",
+      "electric"
+    ]
+  },
+  {
+    "title": "Fan",
+    "filePath": "/SVG/Electric/Fan.svg",
+    "tags": [
+      "fan",
+      "electric"
+    ]
+  },
+  {
+    "title": "Fridge",
+    "filePath": "/SVG/Electric/Fridge.svg",
+    "tags": [
+      "fridge",
+      "electric"
+    ]
+  },
+  {
+    "title": "Gas-stove",
+    "filePath": "/SVG/Electric/Gas-stove.svg",
+    "tags": [
+      "gas",
+      "stove",
+      "electric"
+    ]
+  },
+  {
+    "title": "Hair-dryer",
+    "filePath": "/SVG/Electric/Hair-dryer.svg",
+    "tags": [
+      "hair",
+      "dryer",
+      "electric"
+    ]
+  },
+  {
+    "title": "Highvoltage",
+    "filePath": "/SVG/Electric/Highvoltage.svg",
+    "tags": [
+      "highvoltage",
+      "electric"
+    ]
+  },
+  {
+    "title": "Iron",
+    "filePath": "/SVG/Electric/Iron.svg",
+    "tags": [
+      "iron",
+      "electric"
+    ]
+  },
+  {
+    "title": "Kettle",
+    "filePath": "/SVG/Electric/Kettle.svg",
+    "tags": [
+      "kettle",
+      "electric"
+    ]
+  },
+  {
+    "title": "Mixer",
+    "filePath": "/SVG/Electric/Mixer.svg",
+    "tags": [
+      "mixer",
+      "electric"
+    ]
+  },
+  {
+    "title": "Outlet",
+    "filePath": "/SVG/Electric/Outlet.svg",
+    "tags": [
+      "outlet",
+      "electric"
+    ]
+  },
+  {
+    "title": "Range-hood",
+    "filePath": "/SVG/Electric/Range-hood.svg",
+    "tags": [
+      "range",
+      "hood",
+      "electric"
+    ]
+  },
+  {
+    "title": "Shutdown",
+    "filePath": "/SVG/Electric/Shutdown.svg",
+    "tags": [
+      "shutdown",
+      "electric"
+    ]
+  },
+  {
+    "title": "Socket-eu",
+    "filePath": "/SVG/Electric/Socket-eu.svg",
+    "tags": [
+      "socket",
+      "eu",
+      "electric"
+    ]
+  },
+  {
+    "title": "Socket-us",
+    "filePath": "/SVG/Electric/Socket-us.svg",
+    "tags": [
+      "socket",
+      "us",
+      "electric"
+    ]
+  },
+  {
+    "title": "Washer",
+    "filePath": "/SVG/Electric/Washer.svg",
+    "tags": [
+      "washer",
+      "electric"
+    ]
+  },
+  {
+    "title": "Cloud-download",
+    "filePath": "/SVG/Files/Cloud-download.svg",
+    "tags": [
+      "cloud",
+      "download",
+      "files"
+    ]
+  },
+  {
+    "title": "Cloud-upload",
+    "filePath": "/SVG/Files/Cloud-upload.svg",
+    "tags": [
+      "cloud",
+      "upload",
+      "files"
+    ]
+  },
+  {
+    "title": "Compilation",
+    "filePath": "/SVG/Files/Compilation.svg",
+    "tags": [
+      "compilation",
+      "files"
+    ]
+  },
+  {
+    "title": "Compiled-file",
+    "filePath": "/SVG/Files/Compiled-file.svg",
+    "tags": [
+      "compiled",
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "Deleted-file",
+    "filePath": "/SVG/Files/Deleted-file.svg",
+    "tags": [
+      "deleted",
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "Deleted-folder",
+    "filePath": "/SVG/Files/Deleted-folder.svg",
+    "tags": [
+      "deleted",
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Download",
+    "filePath": "/SVG/Files/Download.svg",
+    "tags": [
+      "download",
+      "files"
+    ]
+  },
+  {
+    "title": "Downloaded file",
+    "filePath": "/SVG/Files/Downloaded file.svg",
+    "tags": [
+      "downloaded",
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "Downloads-folder",
+    "filePath": "/SVG/Files/Downloads-folder.svg",
+    "tags": [
+      "downloads",
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Export",
+    "filePath": "/SVG/Files/Export.svg",
+    "tags": [
+      "export",
+      "files"
+    ]
+  },
+  {
+    "title": "File-cloud",
+    "filePath": "/SVG/Files/File-cloud.svg",
+    "tags": [
+      "file",
+      "cloud",
+      "files"
+    ]
+  },
+  {
+    "title": "File-done",
+    "filePath": "/SVG/Files/File-done.svg",
+    "tags": [
+      "file",
+      "done",
+      "files"
+    ]
+  },
+  {
+    "title": "File-minus",
+    "filePath": "/SVG/Files/File-minus.svg",
+    "tags": [
+      "file",
+      "minus",
+      "files"
+    ]
+  },
+  {
+    "title": "File-plus",
+    "filePath": "/SVG/Files/File-plus.svg",
+    "tags": [
+      "file",
+      "plus",
+      "files"
+    ]
+  },
+  {
+    "title": "File",
+    "filePath": "/SVG/Files/File.svg",
+    "tags": [
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-check",
+    "filePath": "/SVG/Files/Folder-check.svg",
+    "tags": [
+      "folder",
+      "check",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-cloud",
+    "filePath": "/SVG/Files/Folder-cloud.svg",
+    "tags": [
+      "folder",
+      "cloud",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-error",
+    "filePath": "/SVG/Files/Folder-error.svg",
+    "tags": [
+      "folder",
+      "error",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-heart",
+    "filePath": "/SVG/Files/Folder-heart.svg",
+    "tags": [
+      "folder",
+      "heart",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-minus",
+    "filePath": "/SVG/Files/Folder-minus.svg",
+    "tags": [
+      "folder",
+      "minus",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-plus",
+    "filePath": "/SVG/Files/Folder-plus.svg",
+    "tags": [
+      "folder",
+      "plus",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-solid",
+    "filePath": "/SVG/Files/Folder-solid.svg",
+    "tags": [
+      "folder",
+      "solid",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-star",
+    "filePath": "/SVG/Files/Folder-star.svg",
+    "tags": [
+      "folder",
+      "star",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder-thunder",
+    "filePath": "/SVG/Files/Folder-thunder.svg",
+    "tags": [
+      "folder",
+      "thunder",
+      "files"
+    ]
+  },
+  {
+    "title": "Folder",
+    "filePath": "/SVG/Files/Folder.svg",
+    "tags": [
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Group-folders",
+    "filePath": "/SVG/Files/Group-folders.svg",
+    "tags": [
+      "group",
+      "folders",
+      "files"
+    ]
+  },
+  {
+    "title": "Import",
+    "filePath": "/SVG/Files/Import.svg",
+    "tags": [
+      "import",
+      "files"
+    ]
+  },
+  {
+    "title": "Locked-folder",
+    "filePath": "/SVG/Files/Locked-folder.svg",
+    "tags": [
+      "locked",
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Media-folder",
+    "filePath": "/SVG/Files/Media-folder.svg",
+    "tags": [
+      "media",
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Media",
+    "filePath": "/SVG/Files/Media.svg",
+    "tags": [
+      "media",
+      "files"
+    ]
+  },
+  {
+    "title": "Music",
+    "filePath": "/SVG/Files/Music.svg",
+    "tags": [
+      "music",
+      "files"
+    ]
+  },
+  {
+    "title": "Pictures#1",
+    "filePath": "/SVG/Files/Pictures#1.svg",
+    "tags": [
+      "pictures",
+      "files"
+    ]
+  },
+  {
+    "title": "Pictures#2",
+    "filePath": "/SVG/Files/Pictures#2.svg",
+    "tags": [
+      "pictures",
+      "files"
+    ]
+  },
+  {
+    "title": "Protected-file",
+    "filePath": "/SVG/Files/Protected-file.svg",
+    "tags": [
+      "protected",
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "Selected-file",
+    "filePath": "/SVG/Files/Selected-file.svg",
+    "tags": [
+      "selected",
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "Share",
+    "filePath": "/SVG/Files/Share.svg",
+    "tags": [
+      "share",
+      "files"
+    ]
+  },
+  {
+    "title": "Upload-folder",
+    "filePath": "/SVG/Files/Upload-folder.svg",
+    "tags": [
+      "upload",
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Upload",
+    "filePath": "/SVG/Files/Upload.svg",
+    "tags": [
+      "upload",
+      "files"
+    ]
+  },
+  {
+    "title": "Uploaded-file",
+    "filePath": "/SVG/Files/Uploaded-file.svg",
+    "tags": [
+      "uploaded",
+      "file",
+      "files"
+    ]
+  },
+  {
+    "title": "User-folder",
+    "filePath": "/SVG/Files/User-folder.svg",
+    "tags": [
+      "user",
+      "folder",
+      "files"
+    ]
+  },
+  {
+    "title": "Beer",
+    "filePath": "/SVG/Food/Beer.svg",
+    "tags": [
+      "beer",
+      "food"
+    ]
+  },
+  {
+    "title": "Bottle#1",
+    "filePath": "/SVG/Food/Bottle#1.svg",
+    "tags": [
+      "bottle",
+      "food"
+    ]
+  },
+  {
+    "title": "Bottle#2",
+    "filePath": "/SVG/Food/Bottle#2.svg",
+    "tags": [
+      "bottle",
+      "food"
+    ]
+  },
+  {
+    "title": "Bread",
+    "filePath": "/SVG/Food/Bread.svg",
+    "tags": [
+      "bread",
+      "food"
+    ]
+  },
+  {
+    "title": "Bucket",
+    "filePath": "/SVG/Food/Bucket.svg",
+    "tags": [
+      "bucket",
+      "food"
+    ]
+  },
+  {
+    "title": "Burger",
+    "filePath": "/SVG/Food/Burger.svg",
+    "tags": [
+      "burger",
+      "food"
+    ]
+  },
+  {
+    "title": "Cake",
+    "filePath": "/SVG/Food/Cake.svg",
+    "tags": [
+      "cake",
+      "food"
+    ]
+  },
+  {
+    "title": "Carrot",
+    "filePath": "/SVG/Food/Carrot.svg",
+    "tags": [
+      "carrot",
+      "food"
+    ]
+  },
+  {
+    "title": "Cheese",
+    "filePath": "/SVG/Food/Cheese.svg",
+    "tags": [
+      "cheese",
+      "food"
+    ]
+  },
+  {
+    "title": "Chicken",
+    "filePath": "/SVG/Food/Chicken.svg",
+    "tags": [
+      "chicken",
+      "food"
+    ]
+  },
+  {
+    "title": "Coffee#1",
+    "filePath": "/SVG/Food/Coffee#1.svg",
+    "tags": [
+      "coffee",
+      "food"
+    ]
+  },
+  {
+    "title": "Coffee#2",
+    "filePath": "/SVG/Food/Coffee#2.svg",
+    "tags": [
+      "coffee",
+      "food"
+    ]
+  },
+  {
+    "title": "Cookie",
+    "filePath": "/SVG/Food/Cookie.svg",
+    "tags": [
+      "cookie",
+      "food"
+    ]
+  },
+  {
+    "title": "Dinner",
+    "filePath": "/SVG/Food/Dinner.svg",
+    "tags": [
+      "dinner",
+      "food"
+    ]
+  },
+  {
+    "title": "Fish",
+    "filePath": "/SVG/Food/Fish.svg",
+    "tags": [
+      "fish",
+      "food"
+    ]
+  },
+  {
+    "title": "French Bread",
+    "filePath": "/SVG/Food/French Bread.svg",
+    "tags": [
+      "french",
+      "bread",
+      "food"
+    ]
+  },
+  {
+    "title": "Glass-martini",
+    "filePath": "/SVG/Food/Glass-martini.svg",
+    "tags": [
+      "glass",
+      "martini",
+      "food"
+    ]
+  },
+  {
+    "title": "Ice-cream#1",
+    "filePath": "/SVG/Food/Ice-cream#1.svg",
+    "tags": [
+      "ice",
+      "cream",
+      "food"
+    ]
+  },
+  {
+    "title": "Ice-cream#2",
+    "filePath": "/SVG/Food/Ice-cream#2.svg",
+    "tags": [
+      "ice",
+      "cream",
+      "food"
+    ]
+  },
+  {
+    "title": "Miso-soup",
+    "filePath": "/SVG/Food/Miso-soup.svg",
+    "tags": [
+      "miso",
+      "soup",
+      "food"
+    ]
+  },
+  {
+    "title": "Orange",
+    "filePath": "/SVG/Food/Orange.svg",
+    "tags": [
+      "orange",
+      "food"
+    ]
+  },
+  {
+    "title": "Pizza",
+    "filePath": "/SVG/Food/Pizza.svg",
+    "tags": [
+      "pizza",
+      "food"
+    ]
+  },
+  {
+    "title": "Sushi",
+    "filePath": "/SVG/Food/Sushi.svg",
+    "tags": [
+      "sushi",
+      "food"
+    ]
+  },
+  {
+    "title": "Two-bottles",
+    "filePath": "/SVG/Food/Two-bottles.svg",
+    "tags": [
+      "two",
+      "bottles",
+      "food"
+    ]
+  },
+  {
+    "title": "Wine",
+    "filePath": "/SVG/Food/Wine.svg",
+    "tags": [
+      "wine",
+      "food"
+    ]
+  },
+  {
+    "title": "Attachment#1",
+    "filePath": "/SVG/General/Attachment#1.svg",
+    "tags": [
+      "attachment",
+      "general"
+    ]
+  },
+  {
+    "title": "Attachment#2",
+    "filePath": "/SVG/General/Attachment#2.svg",
+    "tags": [
+      "attachment",
+      "general"
+    ]
+  },
+  {
+    "title": "Binocular",
+    "filePath": "/SVG/General/Binocular.svg",
+    "tags": [
+      "binocular",
+      "general"
+    ]
+  },
+  {
+    "title": "Bookmark",
+    "filePath": "/SVG/General/Bookmark.svg",
+    "tags": [
+      "bookmark",
+      "general"
+    ]
+  },
+  {
+    "title": "Clip",
+    "filePath": "/SVG/General/Clip.svg",
+    "tags": [
+      "clip",
+      "general"
+    ]
+  },
+  {
+    "title": "Clipboard",
+    "filePath": "/SVG/General/Clipboard.svg",
+    "tags": [
+      "clipboard",
+      "general"
+    ]
+  },
+  {
+    "title": "Cursor",
+    "filePath": "/SVG/General/Cursor.svg",
+    "tags": [
+      "cursor",
+      "general"
+    ]
+  },
+  {
+    "title": "Dislike",
+    "filePath": "/SVG/General/Dislike.svg",
+    "tags": [
+      "dislike",
+      "general"
+    ]
+  },
+  {
+    "title": "Duplicate",
+    "filePath": "/SVG/General/Duplicate.svg",
+    "tags": [
+      "duplicate",
+      "general"
+    ]
+  },
+  {
+    "title": "Edit",
+    "filePath": "/SVG/General/Edit.svg",
+    "tags": [
+      "edit",
+      "general"
+    ]
+  },
+  {
+    "title": "Expand-arrows",
+    "filePath": "/SVG/General/Expand-arrows.svg",
+    "tags": [
+      "expand",
+      "arrows",
+      "general"
+    ]
+  },
+  {
+    "title": "Fire",
+    "filePath": "/SVG/General/Fire.svg",
+    "tags": [
+      "fire",
+      "general"
+    ]
+  },
+  {
+    "title": "Folder",
+    "filePath": "/SVG/General/Folder.svg",
+    "tags": [
+      "folder",
+      "general"
+    ]
+  },
+  {
+    "title": "Half-heart",
+    "filePath": "/SVG/General/Half-heart.svg",
+    "tags": [
+      "half",
+      "heart",
+      "general"
+    ]
+  },
+  {
+    "title": "Half-star",
+    "filePath": "/SVG/General/Half-star.svg",
+    "tags": [
+      "half",
+      "star",
+      "general"
+    ]
+  },
+  {
+    "title": "Heart",
+    "filePath": "/SVG/General/Heart.svg",
+    "tags": [
+      "heart",
+      "general"
+    ]
+  },
+  {
+    "title": "Hidden",
+    "filePath": "/SVG/General/Hidden.svg",
+    "tags": [
+      "hidden",
+      "general"
+    ]
+  },
+  {
+    "title": "Like",
+    "filePath": "/SVG/General/Like.svg",
+    "tags": [
+      "like",
+      "general"
+    ]
+  },
+  {
+    "title": "Lock",
+    "filePath": "/SVG/General/Lock.svg",
+    "tags": [
+      "lock",
+      "general"
+    ]
+  },
+  {
+    "title": "Notification#2",
+    "filePath": "/SVG/General/Notification#2.svg",
+    "tags": [
+      "notification",
+      "general"
+    ]
+  },
+  {
+    "title": "Notifications#1",
+    "filePath": "/SVG/General/Notifications#1.svg",
+    "tags": [
+      "notifications",
+      "general"
+    ]
+  },
+  {
+    "title": "Other#1",
+    "filePath": "/SVG/General/Other#1.svg",
+    "tags": [
+      "other",
+      "general"
+    ]
+  },
+  {
+    "title": "Other#2",
+    "filePath": "/SVG/General/Other#2.svg",
+    "tags": [
+      "other",
+      "general"
+    ]
+  },
+  {
+    "title": "Sad",
+    "filePath": "/SVG/General/Sad.svg",
+    "tags": [
+      "sad",
+      "general"
+    ]
+  },
+  {
+    "title": "Save",
+    "filePath": "/SVG/General/Save.svg",
+    "tags": [
+      "save",
+      "general"
+    ]
+  },
+  {
+    "title": "Scale",
+    "filePath": "/SVG/General/Scale.svg",
+    "tags": [
+      "scale",
+      "general"
+    ]
+  },
+  {
+    "title": "Scissors",
+    "filePath": "/SVG/General/Scissors.svg",
+    "tags": [
+      "scissors",
+      "general"
+    ]
+  },
+  {
+    "title": "Search",
+    "filePath": "/SVG/General/Search.svg",
+    "tags": [
+      "search",
+      "general"
+    ]
+  },
+  {
+    "title": "Settings#3",
+    "filePath": "/SVG/General/Settings#3.svg",
+    "tags": [
+      "settings",
+      "general"
+    ]
+  },
+  {
+    "title": "Settings-1",
+    "filePath": "/SVG/General/Settings-1.svg",
+    "tags": [
+      "settings",
+      "general"
+    ]
+  },
+  {
+    "title": "Settings-2",
+    "filePath": "/SVG/General/Settings-2.svg",
+    "tags": [
+      "settings",
+      "general"
+    ]
+  },
+  {
+    "title": "Shield-check",
+    "filePath": "/SVG/General/Shield-check.svg",
+    "tags": [
+      "shield",
+      "check",
+      "general"
+    ]
+  },
+  {
+    "title": "Shield-disabled",
+    "filePath": "/SVG/General/Shield-disabled.svg",
+    "tags": [
+      "shield",
+      "disabled",
+      "general"
+    ]
+  },
+  {
+    "title": "Shield-protected",
+    "filePath": "/SVG/General/Shield-protected.svg",
+    "tags": [
+      "shield",
+      "protected",
+      "general"
+    ]
+  },
+  {
+    "title": "Size",
+    "filePath": "/SVG/General/Size.svg",
+    "tags": [
+      "size",
+      "general"
+    ]
+  },
+  {
+    "title": "Smile",
+    "filePath": "/SVG/General/Smile.svg",
+    "tags": [
+      "smile",
+      "general"
+    ]
+  },
+  {
+    "title": "Star",
+    "filePath": "/SVG/General/Star.svg",
+    "tags": [
+      "star",
+      "general"
+    ]
+  },
+  {
+    "title": "Thunder-move",
+    "filePath": "/SVG/General/Thunder-move.svg",
+    "tags": [
+      "thunder",
+      "move",
+      "general"
+    ]
+  },
+  {
+    "title": "Thunder",
+    "filePath": "/SVG/General/Thunder.svg",
+    "tags": [
+      "thunder",
+      "general"
+    ]
+  },
+  {
+    "title": "Trash",
+    "filePath": "/SVG/General/Trash.svg",
+    "tags": [
+      "trash",
+      "general"
+    ]
+  },
+  {
+    "title": "Unlock",
+    "filePath": "/SVG/General/Unlock.svg",
+    "tags": [
+      "unlock",
+      "general"
+    ]
+  },
+  {
+    "title": "Update",
+    "filePath": "/SVG/General/Update.svg",
+    "tags": [
+      "update",
+      "general"
+    ]
+  },
+  {
+    "title": "User",
+    "filePath": "/SVG/General/User.svg",
+    "tags": [
+      "user",
+      "general"
+    ]
+  },
+  {
+    "title": "Visible",
+    "filePath": "/SVG/General/Visible.svg",
+    "tags": [
+      "visible",
+      "general"
+    ]
+  },
+  {
+    "title": "Air-ballon",
+    "filePath": "/SVG/Home/Air-ballon.svg",
+    "tags": [
+      "air",
+      "ballon",
+      "home"
+    ]
+  },
+  {
+    "title": "Alarm-clock",
+    "filePath": "/SVG/Home/Alarm-clock.svg",
+    "tags": [
+      "alarm",
+      "clock",
+      "home"
+    ]
+  },
+  {
+    "title": "Armchair",
+    "filePath": "/SVG/Home/Armchair.svg",
+    "tags": [
+      "armchair",
+      "home"
+    ]
+  },
+  {
+    "title": "Bag-chair",
+    "filePath": "/SVG/Home/Bag-chair.svg",
+    "tags": [
+      "bag",
+      "chair",
+      "home"
+    ]
+  },
+  {
+    "title": "Bath",
+    "filePath": "/SVG/Home/Bath.svg",
+    "tags": [
+      "bath",
+      "home"
+    ]
+  },
+  {
+    "title": "Bed",
+    "filePath": "/SVG/Home/Bed.svg",
+    "tags": [
+      "bed",
+      "home"
+    ]
+  },
+  {
+    "title": "Book-open",
+    "filePath": "/SVG/Home/Book-open.svg",
+    "tags": [
+      "book",
+      "open",
+      "home"
+    ]
+  },
+  {
+    "title": "Book",
+    "filePath": "/SVG/Home/Book.svg",
+    "tags": [
+      "book",
+      "home"
+    ]
+  },
+  {
+    "title": "Box",
+    "filePath": "/SVG/Home/Box.svg",
+    "tags": [
+      "box",
+      "home"
+    ]
+  },
+  {
+    "title": "Broom",
+    "filePath": "/SVG/Home/Broom.svg",
+    "tags": [
+      "broom",
+      "home"
+    ]
+  },
+  {
+    "title": "Building",
+    "filePath": "/SVG/Home/Building.svg",
+    "tags": [
+      "building",
+      "home"
+    ]
+  },
+  {
+    "title": "Bulb#1",
+    "filePath": "/SVG/Home/Bulb#1.svg",
+    "tags": [
+      "bulb",
+      "home"
+    ]
+  },
+  {
+    "title": "Bulb#2",
+    "filePath": "/SVG/Home/Bulb#2.svg",
+    "tags": [
+      "bulb",
+      "home"
+    ]
+  },
+  {
+    "title": "Chair#1",
+    "filePath": "/SVG/Home/Chair#1.svg",
+    "tags": [
+      "chair",
+      "home"
+    ]
+  },
+  {
+    "title": "Chair#2",
+    "filePath": "/SVG/Home/Chair#2.svg",
+    "tags": [
+      "chair",
+      "home"
+    ]
+  },
+  {
+    "title": "Clock",
+    "filePath": "/SVG/Home/Clock.svg",
+    "tags": [
+      "clock",
+      "home"
+    ]
+  },
+  {
+    "title": "Commode#1",
+    "filePath": "/SVG/Home/Commode#1.svg",
+    "tags": [
+      "commode",
+      "home"
+    ]
+  },
+  {
+    "title": "Commode#2",
+    "filePath": "/SVG/Home/Commode#2.svg",
+    "tags": [
+      "commode",
+      "home"
+    ]
+  },
+  {
+    "title": "Couch",
+    "filePath": "/SVG/Home/Couch.svg",
+    "tags": [
+      "couch",
+      "home"
+    ]
+  },
+  {
+    "title": "Cupboard",
+    "filePath": "/SVG/Home/Cupboard.svg",
+    "tags": [
+      "cupboard",
+      "home"
+    ]
+  },
+  {
+    "title": "Curtains",
+    "filePath": "/SVG/Home/Curtains.svg",
+    "tags": [
+      "curtains",
+      "home"
+    ]
+  },
+  {
+    "title": "Deer",
+    "filePath": "/SVG/Home/Deer.svg",
+    "tags": [
+      "deer",
+      "home"
+    ]
+  },
+  {
+    "title": "Door-open",
+    "filePath": "/SVG/Home/Door-open.svg",
+    "tags": [
+      "door",
+      "open",
+      "home"
+    ]
+  },
+  {
+    "title": "Earth",
+    "filePath": "/SVG/Home/Earth.svg",
+    "tags": [
+      "earth",
+      "home"
+    ]
+  },
+  {
+    "title": "Fireplace",
+    "filePath": "/SVG/Home/Fireplace.svg",
+    "tags": [
+      "fireplace",
+      "home"
+    ]
+  },
+  {
+    "title": "Flashlight",
+    "filePath": "/SVG/Home/Flashlight.svg",
+    "tags": [
+      "flashlight",
+      "home"
+    ]
+  },
+  {
+    "title": "Flower#1",
+    "filePath": "/SVG/Home/Flower#1.svg",
+    "tags": [
+      "flower",
+      "home"
+    ]
+  },
+  {
+    "title": "Flower#2",
+    "filePath": "/SVG/Home/Flower#2.svg",
+    "tags": [
+      "flower",
+      "home"
+    ]
+  },
+  {
+    "title": "Flower#3",
+    "filePath": "/SVG/Home/Flower#3.svg",
+    "tags": [
+      "flower",
+      "home"
+    ]
+  },
+  {
+    "title": "Globe",
+    "filePath": "/SVG/Home/Globe.svg",
+    "tags": [
+      "globe",
+      "home"
+    ]
+  },
+  {
+    "title": "Home-heart",
+    "filePath": "/SVG/Home/Home-heart.svg",
+    "tags": [
+      "home",
+      "heart",
+      "home"
+    ]
+  },
+  {
+    "title": "Home",
+    "filePath": "/SVG/Home/Home.svg",
+    "tags": [
+      "home",
+      "home"
+    ]
+  },
+  {
+    "title": "Key",
+    "filePath": "/SVG/Home/Key.svg",
+    "tags": [
+      "key",
+      "home"
+    ]
+  },
+  {
+    "title": "Ladder",
+    "filePath": "/SVG/Home/Ladder.svg",
+    "tags": [
+      "ladder",
+      "home"
+    ]
+  },
+  {
+    "title": "Lamp#1",
+    "filePath": "/SVG/Home/Lamp#1.svg",
+    "tags": [
+      "lamp",
+      "home"
+    ]
+  },
+  {
+    "title": "Lamp#2",
+    "filePath": "/SVG/Home/Lamp#2.svg",
+    "tags": [
+      "lamp",
+      "home"
+    ]
+  },
+  {
+    "title": "Library",
+    "filePath": "/SVG/Home/Library.svg",
+    "tags": [
+      "library",
+      "home"
+    ]
+  },
+  {
+    "title": "Mailbox",
+    "filePath": "/SVG/Home/Mailbox.svg",
+    "tags": [
+      "mailbox",
+      "home"
+    ]
+  },
+  {
+    "title": "Mirror",
+    "filePath": "/SVG/Home/Mirror.svg",
+    "tags": [
+      "mirror",
+      "home"
+    ]
+  },
+  {
+    "title": "Picture",
+    "filePath": "/SVG/Home/Picture.svg",
+    "tags": [
+      "picture",
+      "home"
+    ]
+  },
+  {
+    "title": "Ruller",
+    "filePath": "/SVG/Home/Ruller.svg",
+    "tags": [
+      "ruller",
+      "home"
+    ]
+  },
+  {
+    "title": "Stairs",
+    "filePath": "/SVG/Home/Stairs.svg",
+    "tags": [
+      "stairs",
+      "home"
+    ]
+  },
+  {
+    "title": "Timer",
+    "filePath": "/SVG/Home/Timer.svg",
+    "tags": [
+      "timer",
+      "home"
+    ]
+  },
+  {
+    "title": "Toilet",
+    "filePath": "/SVG/Home/Toilet.svg",
+    "tags": [
+      "toilet",
+      "home"
+    ]
+  },
+  {
+    "title": "Towel",
+    "filePath": "/SVG/Home/Towel.svg",
+    "tags": [
+      "towel",
+      "home"
+    ]
+  },
+  {
+    "title": "Trash#2",
+    "filePath": "/SVG/Home/Trash#2.svg",
+    "tags": [
+      "trash",
+      "home"
+    ]
+  },
+  {
+    "title": "Water-mixer",
+    "filePath": "/SVG/Home/Water-mixer.svg",
+    "tags": [
+      "water",
+      "mixer",
+      "home"
+    ]
+  },
+  {
+    "title": "Weight#1",
+    "filePath": "/SVG/Home/Weight#1.svg",
+    "tags": [
+      "weight",
+      "home"
+    ]
+  },
+  {
+    "title": "Weight#2",
+    "filePath": "/SVG/Home/Weight#2.svg",
+    "tags": [
+      "weight",
+      "home"
+    ]
+  },
+  {
+    "title": "Wood#1",
+    "filePath": "/SVG/Home/Wood#1.svg",
+    "tags": [
+      "wood",
+      "home"
+    ]
+  },
+  {
+    "title": "Wood#2",
+    "filePath": "/SVG/Home/Wood#2.svg",
+    "tags": [
+      "wood",
+      "home"
+    ]
+  },
+  {
+    "title": "Wood-horse",
+    "filePath": "/SVG/Home/Wood-horse.svg",
+    "tags": [
+      "wood",
+      "horse",
+      "home"
+    ]
+  },
+  {
+    "title": "Layout-3d",
+    "filePath": "/SVG/Layout/Layout-3d.svg",
+    "tags": [
+      "layout",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-4-blocks",
+    "filePath": "/SVG/Layout/Layout-4-blocks.svg",
+    "tags": [
+      "layout",
+      "blocks",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-arrange",
+    "filePath": "/SVG/Layout/Layout-arrange.svg",
+    "tags": [
+      "layout",
+      "arrange",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-grid",
+    "filePath": "/SVG/Layout/Layout-grid.svg",
+    "tags": [
+      "layout",
+      "grid",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-horizontal",
+    "filePath": "/SVG/Layout/Layout-horizontal.svg",
+    "tags": [
+      "layout",
+      "horizontal",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-left-panel-1",
+    "filePath": "/SVG/Layout/Layout-left-panel-1.svg",
+    "tags": [
+      "layout",
+      "left",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-left-panel-2",
+    "filePath": "/SVG/Layout/Layout-left-panel-2.svg",
+    "tags": [
+      "layout",
+      "left",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-right-panel-1",
+    "filePath": "/SVG/Layout/Layout-right-panel-1.svg",
+    "tags": [
+      "layout",
+      "right",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-right-panel-2",
+    "filePath": "/SVG/Layout/Layout-right-panel-2.svg",
+    "tags": [
+      "layout",
+      "right",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-top-panel-1",
+    "filePath": "/SVG/Layout/Layout-top-panel-1.svg",
+    "tags": [
+      "layout",
+      "top",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-top-panel-2",
+    "filePath": "/SVG/Layout/Layout-top-panel-2.svg",
+    "tags": [
+      "layout",
+      "top",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-top-panel-3",
+    "filePath": "/SVG/Layout/Layout-top-panel-3.svg",
+    "tags": [
+      "layout",
+      "top",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-top-panel-4",
+    "filePath": "/SVG/Layout/Layout-top-panel-4.svg",
+    "tags": [
+      "layout",
+      "top",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-top-panel-5",
+    "filePath": "/SVG/Layout/Layout-top-panel-5.svg",
+    "tags": [
+      "layout",
+      "top",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-top-panel-6",
+    "filePath": "/SVG/Layout/Layout-top-panel-6.svg",
+    "tags": [
+      "layout",
+      "top",
+      "panel",
+      "layout"
+    ]
+  },
+  {
+    "title": "Layout-vertical",
+    "filePath": "/SVG/Layout/Layout-vertical.svg",
+    "tags": [
+      "layout",
+      "vertical",
+      "layout"
+    ]
+  },
+  {
+    "title": "Compass",
+    "filePath": "/SVG/Map/Compass.svg",
+    "tags": [
+      "compass",
+      "map"
+    ]
+  },
+  {
+    "title": "Direction#1",
+    "filePath": "/SVG/Map/Direction#1.svg",
+    "tags": [
+      "direction",
+      "map"
+    ]
+  },
+  {
+    "title": "Direction#2",
+    "filePath": "/SVG/Map/Direction#2.svg",
+    "tags": [
+      "direction",
+      "map"
+    ]
+  },
+  {
+    "title": "Location-arrow",
+    "filePath": "/SVG/Map/Location-arrow.svg",
+    "tags": [
+      "location",
+      "arrow",
+      "map"
+    ]
+  },
+  {
+    "title": "Marker#1",
+    "filePath": "/SVG/Map/Marker#1.svg",
+    "tags": [
+      "marker",
+      "map"
+    ]
+  },
+  {
+    "title": "Marker#2",
+    "filePath": "/SVG/Map/Marker#2.svg",
+    "tags": [
+      "marker",
+      "map"
+    ]
+  },
+  {
+    "title": "Position",
+    "filePath": "/SVG/Map/Position.svg",
+    "tags": [
+      "position",
+      "map"
+    ]
+  },
+  {
+    "title": "Add-music",
+    "filePath": "/SVG/Media/Add-music.svg",
+    "tags": [
+      "add",
+      "music",
+      "media"
+    ]
+  },
+  {
+    "title": "Airplay-video",
+    "filePath": "/SVG/Media/Airplay-video.svg",
+    "tags": [
+      "airplay",
+      "video",
+      "media"
+    ]
+  },
+  {
+    "title": "Airplay",
+    "filePath": "/SVG/Media/Airplay.svg",
+    "tags": [
+      "airplay",
+      "media"
+    ]
+  },
+  {
+    "title": "Back",
+    "filePath": "/SVG/Media/Back.svg",
+    "tags": [
+      "back",
+      "media"
+    ]
+  },
+  {
+    "title": "Backward",
+    "filePath": "/SVG/Media/Backward.svg",
+    "tags": [
+      "backward",
+      "media"
+    ]
+  },
+  {
+    "title": "CD",
+    "filePath": "/SVG/Media/CD.svg",
+    "tags": [
+      "cd",
+      "media"
+    ]
+  },
+  {
+    "title": "DVD",
+    "filePath": "/SVG/Media/DVD.svg",
+    "tags": [
+      "dvd",
+      "media"
+    ]
+  },
+  {
+    "title": "Eject",
+    "filePath": "/SVG/Media/Eject.svg",
+    "tags": [
+      "eject",
+      "media"
+    ]
+  },
+  {
+    "title": "Equalizer",
+    "filePath": "/SVG/Media/Equalizer.svg",
+    "tags": [
+      "equalizer",
+      "media"
+    ]
+  },
+  {
+    "title": "Forward",
+    "filePath": "/SVG/Media/Forward.svg",
+    "tags": [
+      "forward",
+      "media"
+    ]
+  },
+  {
+    "title": "Media-library#1",
+    "filePath": "/SVG/Media/Media-library#1.svg",
+    "tags": [
+      "media",
+      "library",
+      "media"
+    ]
+  },
+  {
+    "title": "Media-library#2",
+    "filePath": "/SVG/Media/Media-library#2.svg",
+    "tags": [
+      "media",
+      "library",
+      "media"
+    ]
+  },
+  {
+    "title": "Media-library#3",
+    "filePath": "/SVG/Media/Media-library#3.svg",
+    "tags": [
+      "media",
+      "library",
+      "media"
+    ]
+  },
+  {
+    "title": "Movie-Lane #2",
+    "filePath": "/SVG/Media/Movie-Lane #2.svg",
+    "tags": [
+      "movie",
+      "lane",
+      "",
+      "media"
+    ]
+  },
+  {
+    "title": "Movie-lane#1",
+    "filePath": "/SVG/Media/Movie-lane#1.svg",
+    "tags": [
+      "movie",
+      "lane",
+      "media"
+    ]
+  },
+  {
+    "title": "Music-cloud",
+    "filePath": "/SVG/Media/Music-cloud.svg",
+    "tags": [
+      "music",
+      "cloud",
+      "media"
+    ]
+  },
+  {
+    "title": "Music-note",
+    "filePath": "/SVG/Media/Music-note.svg",
+    "tags": [
+      "music",
+      "note",
+      "media"
+    ]
+  },
+  {
+    "title": "Music",
+    "filePath": "/SVG/Media/Music.svg",
+    "tags": [
+      "music",
+      "media"
+    ]
+  },
+  {
+    "title": "Mute",
+    "filePath": "/SVG/Media/Mute.svg",
+    "tags": [
+      "mute",
+      "media"
+    ]
+  },
+  {
+    "title": "Next",
+    "filePath": "/SVG/Media/Next.svg",
+    "tags": [
+      "next",
+      "media"
+    ]
+  },
+  {
+    "title": "Pause",
+    "filePath": "/SVG/Media/Pause.svg",
+    "tags": [
+      "pause",
+      "media"
+    ]
+  },
+  {
+    "title": "Play",
+    "filePath": "/SVG/Media/Play.svg",
+    "tags": [
+      "play",
+      "media"
+    ]
+  },
+  {
+    "title": "Playlist#1",
+    "filePath": "/SVG/Media/Playlist#1.svg",
+    "tags": [
+      "playlist",
+      "media"
+    ]
+  },
+  {
+    "title": "Playlist#2",
+    "filePath": "/SVG/Media/Playlist#2.svg",
+    "tags": [
+      "playlist",
+      "media"
+    ]
+  },
+  {
+    "title": "Rec",
+    "filePath": "/SVG/Media/Rec.svg",
+    "tags": [
+      "rec",
+      "media"
+    ]
+  },
+  {
+    "title": "Repeat-one",
+    "filePath": "/SVG/Media/Repeat-one.svg",
+    "tags": [
+      "repeat",
+      "one",
+      "media"
+    ]
+  },
+  {
+    "title": "Repeat",
+    "filePath": "/SVG/Media/Repeat.svg",
+    "tags": [
+      "repeat",
+      "media"
+    ]
+  },
+  {
+    "title": "Shuffle",
+    "filePath": "/SVG/Media/Shuffle.svg",
+    "tags": [
+      "shuffle",
+      "media"
+    ]
+  },
+  {
+    "title": "Volume-down",
+    "filePath": "/SVG/Media/Volume-down.svg",
+    "tags": [
+      "volume",
+      "down",
+      "media"
+    ]
+  },
+  {
+    "title": "Volume-full",
+    "filePath": "/SVG/Media/Volume-full.svg",
+    "tags": [
+      "volume",
+      "full",
+      "media"
+    ]
+  },
+  {
+    "title": "Volume-half",
+    "filePath": "/SVG/Media/Volume-half.svg",
+    "tags": [
+      "volume",
+      "half",
+      "media"
+    ]
+  },
+  {
+    "title": "Volume-up",
+    "filePath": "/SVG/Media/Volume-up.svg",
+    "tags": [
+      "volume",
+      "up",
+      "media"
+    ]
+  },
+  {
+    "title": "Vynil",
+    "filePath": "/SVG/Media/Vynil.svg",
+    "tags": [
+      "vynil",
+      "media"
+    ]
+  },
+  {
+    "title": "Youtube",
+    "filePath": "/SVG/Media/Youtube.svg",
+    "tags": [
+      "youtube",
+      "media"
+    ]
+  },
+  {
+    "title": "Angle-double-down",
+    "filePath": "/SVG/Navigation/Angle-double-down.svg",
+    "tags": [
+      "angle",
+      "double",
+      "down",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-double-left",
+    "filePath": "/SVG/Navigation/Angle-double-left.svg",
+    "tags": [
+      "angle",
+      "double",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-double-right",
+    "filePath": "/SVG/Navigation/Angle-double-right.svg",
+    "tags": [
+      "angle",
+      "double",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-double-up",
+    "filePath": "/SVG/Navigation/Angle-double-up.svg",
+    "tags": [
+      "angle",
+      "double",
+      "up",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-down",
+    "filePath": "/SVG/Navigation/Angle-down.svg",
+    "tags": [
+      "angle",
+      "down",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-left",
+    "filePath": "/SVG/Navigation/Angle-left.svg",
+    "tags": [
+      "angle",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-right",
+    "filePath": "/SVG/Navigation/Angle-right.svg",
+    "tags": [
+      "angle",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Angle-up",
+    "filePath": "/SVG/Navigation/Angle-up.svg",
+    "tags": [
+      "angle",
+      "up",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-down",
+    "filePath": "/SVG/Navigation/Arrow-down.svg",
+    "tags": [
+      "arrow",
+      "down",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-from-bottom",
+    "filePath": "/SVG/Navigation/Arrow-from-bottom.svg",
+    "tags": [
+      "arrow",
+      "from",
+      "bottom",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-from-left",
+    "filePath": "/SVG/Navigation/Arrow-from-left.svg",
+    "tags": [
+      "arrow",
+      "from",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-from-right",
+    "filePath": "/SVG/Navigation/Arrow-from-right.svg",
+    "tags": [
+      "arrow",
+      "from",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-from-top",
+    "filePath": "/SVG/Navigation/Arrow-from-top.svg",
+    "tags": [
+      "arrow",
+      "from",
+      "top",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-left",
+    "filePath": "/SVG/Navigation/Arrow-left.svg",
+    "tags": [
+      "arrow",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-right",
+    "filePath": "/SVG/Navigation/Arrow-right.svg",
+    "tags": [
+      "arrow",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-to-bottom",
+    "filePath": "/SVG/Navigation/Arrow-to-bottom.svg",
+    "tags": [
+      "arrow",
+      "to",
+      "bottom",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-to-left",
+    "filePath": "/SVG/Navigation/Arrow-to-left.svg",
+    "tags": [
+      "arrow",
+      "to",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-to-right",
+    "filePath": "/SVG/Navigation/Arrow-to-right.svg",
+    "tags": [
+      "arrow",
+      "to",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-to-up",
+    "filePath": "/SVG/Navigation/Arrow-to-up.svg",
+    "tags": [
+      "arrow",
+      "to",
+      "up",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrow-up",
+    "filePath": "/SVG/Navigation/Arrow-up.svg",
+    "tags": [
+      "arrow",
+      "up",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrows-h",
+    "filePath": "/SVG/Navigation/Arrows-h.svg",
+    "tags": [
+      "arrows",
+      "h",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Arrows-v",
+    "filePath": "/SVG/Navigation/Arrows-v.svg",
+    "tags": [
+      "arrows",
+      "v",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Check",
+    "filePath": "/SVG/Navigation/Check.svg",
+    "tags": [
+      "check",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Close",
+    "filePath": "/SVG/Navigation/Close.svg",
+    "tags": [
+      "close",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Double-check",
+    "filePath": "/SVG/Navigation/Double-check.svg",
+    "tags": [
+      "double",
+      "check",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Down-2",
+    "filePath": "/SVG/Navigation/Down-2.svg",
+    "tags": [
+      "down",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Down-left",
+    "filePath": "/SVG/Navigation/Down-left.svg",
+    "tags": [
+      "down",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Down-right",
+    "filePath": "/SVG/Navigation/Down-right.svg",
+    "tags": [
+      "down",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Exchange",
+    "filePath": "/SVG/Navigation/Exchange.svg",
+    "tags": [
+      "exchange",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Left 3",
+    "filePath": "/SVG/Navigation/Left 3.svg",
+    "tags": [
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Left-2",
+    "filePath": "/SVG/Navigation/Left-2.svg",
+    "tags": [
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Minus",
+    "filePath": "/SVG/Navigation/Minus.svg",
+    "tags": [
+      "minus",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Plus",
+    "filePath": "/SVG/Navigation/Plus.svg",
+    "tags": [
+      "plus",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Right 3",
+    "filePath": "/SVG/Navigation/Right 3.svg",
+    "tags": [
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Right-2",
+    "filePath": "/SVG/Navigation/Right-2.svg",
+    "tags": [
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Route",
+    "filePath": "/SVG/Navigation/Route.svg",
+    "tags": [
+      "route",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Sign-in",
+    "filePath": "/SVG/Navigation/Sign-in.svg",
+    "tags": [
+      "sign",
+      "in",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Sign-out",
+    "filePath": "/SVG/Navigation/Sign-out.svg",
+    "tags": [
+      "sign",
+      "out",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Up-2",
+    "filePath": "/SVG/Navigation/Up-2.svg",
+    "tags": [
+      "up",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Up-down",
+    "filePath": "/SVG/Navigation/Up-down.svg",
+    "tags": [
+      "up",
+      "down",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Up-left",
+    "filePath": "/SVG/Navigation/Up-left.svg",
+    "tags": [
+      "up",
+      "left",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Up-right",
+    "filePath": "/SVG/Navigation/Up-right.svg",
+    "tags": [
+      "up",
+      "right",
+      "navigation"
+    ]
+  },
+  {
+    "title": "Waiting",
+    "filePath": "/SVG/Navigation/Waiting.svg",
+    "tags": [
+      "waiting",
+      "navigation"
+    ]
+  },
+  {
+    "title": "ATM",
+    "filePath": "/SVG/Shopping/ATM.svg",
+    "tags": [
+      "atm",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Bag#1",
+    "filePath": "/SVG/Shopping/Bag#1.svg",
+    "tags": [
+      "bag",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Bag#2",
+    "filePath": "/SVG/Shopping/Bag#2.svg",
+    "tags": [
+      "bag",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Barcode-read",
+    "filePath": "/SVG/Shopping/Barcode-read.svg",
+    "tags": [
+      "barcode",
+      "read",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Barcode-scan",
+    "filePath": "/SVG/Shopping/Barcode-scan.svg",
+    "tags": [
+      "barcode",
+      "scan",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Barcode",
+    "filePath": "/SVG/Shopping/Barcode.svg",
+    "tags": [
+      "barcode",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Bitcoin",
+    "filePath": "/SVG/Shopping/Bitcoin.svg",
+    "tags": [
+      "bitcoin",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Box#1",
+    "filePath": "/SVG/Shopping/Box#1.svg",
+    "tags": [
+      "box",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Box#2",
+    "filePath": "/SVG/Shopping/Box#2.svg",
+    "tags": [
+      "box",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Box#3",
+    "filePath": "/SVG/Shopping/Box#3.svg",
+    "tags": [
+      "box",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Calculator",
+    "filePath": "/SVG/Shopping/Calculator.svg",
+    "tags": [
+      "calculator",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Cart#1",
+    "filePath": "/SVG/Shopping/Cart#1.svg",
+    "tags": [
+      "cart",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Cart#2",
+    "filePath": "/SVG/Shopping/Cart#2.svg",
+    "tags": [
+      "cart",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Cart#3",
+    "filePath": "/SVG/Shopping/Cart#3.svg",
+    "tags": [
+      "cart",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Chart-bar#1",
+    "filePath": "/SVG/Shopping/Chart-bar#1.svg",
+    "tags": [
+      "chart",
+      "bar",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Chart-bar#2",
+    "filePath": "/SVG/Shopping/Chart-bar#2.svg",
+    "tags": [
+      "chart",
+      "bar",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Chart-bar#3",
+    "filePath": "/SVG/Shopping/Chart-bar#3.svg",
+    "tags": [
+      "chart",
+      "bar",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Chart-line#1",
+    "filePath": "/SVG/Shopping/Chart-line#1.svg",
+    "tags": [
+      "chart",
+      "line",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Chart-line#2",
+    "filePath": "/SVG/Shopping/Chart-line#2.svg",
+    "tags": [
+      "chart",
+      "line",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Chart-pie",
+    "filePath": "/SVG/Shopping/Chart-pie.svg",
+    "tags": [
+      "chart",
+      "pie",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Credit-card",
+    "filePath": "/SVG/Shopping/Credit-card.svg",
+    "tags": [
+      "credit",
+      "card",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Dollar",
+    "filePath": "/SVG/Shopping/Dollar.svg",
+    "tags": [
+      "dollar",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Euro",
+    "filePath": "/SVG/Shopping/Euro.svg",
+    "tags": [
+      "euro",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Gift",
+    "filePath": "/SVG/Shopping/Gift.svg",
+    "tags": [
+      "gift",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Loader",
+    "filePath": "/SVG/Shopping/Loader.svg",
+    "tags": [
+      "loader",
+      "shopping"
+    ]
+  },
+  {
+    "title": "MC",
+    "filePath": "/SVG/Shopping/MC.svg",
+    "tags": [
+      "mc",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Money",
+    "filePath": "/SVG/Shopping/Money.svg",
+    "tags": [
+      "money",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Pound",
+    "filePath": "/SVG/Shopping/Pound.svg",
+    "tags": [
+      "pound",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Price #1",
+    "filePath": "/SVG/Shopping/Price #1.svg",
+    "tags": [
+      "price",
+      "",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Price #2",
+    "filePath": "/SVG/Shopping/Price #2.svg",
+    "tags": [
+      "price",
+      "",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Rouble",
+    "filePath": "/SVG/Shopping/Rouble.svg",
+    "tags": [
+      "rouble",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Safe",
+    "filePath": "/SVG/Shopping/Safe.svg",
+    "tags": [
+      "safe",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Sale#1",
+    "filePath": "/SVG/Shopping/Sale#1.svg",
+    "tags": [
+      "sale",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Sale#2",
+    "filePath": "/SVG/Shopping/Sale#2.svg",
+    "tags": [
+      "sale",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Settings",
+    "filePath": "/SVG/Shopping/Settings.svg",
+    "tags": [
+      "settings",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Sort#1",
+    "filePath": "/SVG/Shopping/Sort#1.svg",
+    "tags": [
+      "sort",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Sort#2",
+    "filePath": "/SVG/Shopping/Sort#2.svg",
+    "tags": [
+      "sort",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Sort#3",
+    "filePath": "/SVG/Shopping/Sort#3.svg",
+    "tags": [
+      "sort",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Ticket",
+    "filePath": "/SVG/Shopping/Ticket.svg",
+    "tags": [
+      "ticket",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Wallet#2",
+    "filePath": "/SVG/Shopping/Wallet#2.svg",
+    "tags": [
+      "wallet",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Wallet#3",
+    "filePath": "/SVG/Shopping/Wallet#3.svg",
+    "tags": [
+      "wallet",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Wallet",
+    "filePath": "/SVG/Shopping/Wallet.svg",
+    "tags": [
+      "wallet",
+      "shopping"
+    ]
+  },
+  {
+    "title": "Align-auto",
+    "filePath": "/SVG/Text/Align-auto.svg",
+    "tags": [
+      "align",
+      "auto",
+      "text"
+    ]
+  },
+  {
+    "title": "Align-center",
+    "filePath": "/SVG/Text/Align-center.svg",
+    "tags": [
+      "align",
+      "center",
+      "text"
+    ]
+  },
+  {
+    "title": "Align-justify",
+    "filePath": "/SVG/Text/Align-justify.svg",
+    "tags": [
+      "align",
+      "justify",
+      "text"
+    ]
+  },
+  {
+    "title": "Align-left",
+    "filePath": "/SVG/Text/Align-left.svg",
+    "tags": [
+      "align",
+      "left",
+      "text"
+    ]
+  },
+  {
+    "title": "Align-right",
+    "filePath": "/SVG/Text/Align-right.svg",
+    "tags": [
+      "align",
+      "right",
+      "text"
+    ]
+  },
+  {
+    "title": "Article",
+    "filePath": "/SVG/Text/Article.svg",
+    "tags": [
+      "article",
+      "text"
+    ]
+  },
+  {
+    "title": "Bold",
+    "filePath": "/SVG/Text/Bold.svg",
+    "tags": [
+      "bold",
+      "text"
+    ]
+  },
+  {
+    "title": "Bullet-list",
+    "filePath": "/SVG/Text/Bullet-list.svg",
+    "tags": [
+      "bullet",
+      "list",
+      "text"
+    ]
+  },
+  {
+    "title": "Code",
+    "filePath": "/SVG/Text/Code.svg",
+    "tags": [
+      "code",
+      "text"
+    ]
+  },
+  {
+    "title": "Edit-text",
+    "filePath": "/SVG/Text/Edit-text.svg",
+    "tags": [
+      "edit",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "title": "Filter",
+    "filePath": "/SVG/Text/Filter.svg",
+    "tags": [
+      "filter",
+      "text"
+    ]
+  },
+  {
+    "title": "Font",
+    "filePath": "/SVG/Text/Font.svg",
+    "tags": [
+      "font",
+      "text"
+    ]
+  },
+  {
+    "title": "H1",
+    "filePath": "/SVG/Text/H1.svg",
+    "tags": [
+      "h1",
+      "text"
+    ]
+  },
+  {
+    "title": "H2",
+    "filePath": "/SVG/Text/H2.svg",
+    "tags": [
+      "h2",
+      "text"
+    ]
+  },
+  {
+    "title": "Itallic",
+    "filePath": "/SVG/Text/Itallic.svg",
+    "tags": [
+      "itallic",
+      "text"
+    ]
+  },
+  {
+    "title": "Menu",
+    "filePath": "/SVG/Text/Menu.svg",
+    "tags": [
+      "menu",
+      "text"
+    ]
+  },
+  {
+    "title": "Paragraph",
+    "filePath": "/SVG/Text/Paragraph.svg",
+    "tags": [
+      "paragraph",
+      "text"
+    ]
+  },
+  {
+    "title": "Quote#1",
+    "filePath": "/SVG/Text/Quote#1.svg",
+    "tags": [
+      "quote",
+      "text"
+    ]
+  },
+  {
+    "title": "Quote#2",
+    "filePath": "/SVG/Text/Quote#2.svg",
+    "tags": [
+      "quote",
+      "text"
+    ]
+  },
+  {
+    "title": "Redo",
+    "filePath": "/SVG/Text/Redo.svg",
+    "tags": [
+      "redo",
+      "text"
+    ]
+  },
+  {
+    "title": "Strikethrough",
+    "filePath": "/SVG/Text/Strikethrough.svg",
+    "tags": [
+      "strikethrough",
+      "text"
+    ]
+  },
+  {
+    "title": "Text-height",
+    "filePath": "/SVG/Text/Text-height.svg",
+    "tags": [
+      "text",
+      "height",
+      "text"
+    ]
+  },
+  {
+    "title": "Text-width",
+    "filePath": "/SVG/Text/Text-width.svg",
+    "tags": [
+      "text",
+      "width",
+      "text"
+    ]
+  },
+  {
+    "title": "Text",
+    "filePath": "/SVG/Text/Text.svg",
+    "tags": [
+      "text",
+      "text"
+    ]
+  },
+  {
+    "title": "Underline",
+    "filePath": "/SVG/Text/Underline.svg",
+    "tags": [
+      "underline",
+      "text"
+    ]
+  },
+  {
+    "title": "Undo",
+    "filePath": "/SVG/Text/Undo.svg",
+    "tags": [
+      "undo",
+      "text"
+    ]
+  },
+  {
+    "title": "Angle Grinder",
+    "filePath": "/SVG/Tools/Angle Grinder.svg",
+    "tags": [
+      "angle",
+      "grinder",
+      "tools"
+    ]
+  },
+  {
+    "title": "Axe",
+    "filePath": "/SVG/Tools/Axe.svg",
+    "tags": [
+      "axe",
+      "tools"
+    ]
+  },
+  {
+    "title": "Brush",
+    "filePath": "/SVG/Tools/Brush.svg",
+    "tags": [
+      "brush",
+      "tools"
+    ]
+  },
+  {
+    "title": "Compass",
+    "filePath": "/SVG/Tools/Compass.svg",
+    "tags": [
+      "compass",
+      "tools"
+    ]
+  },
+  {
+    "title": "Hummer#2",
+    "filePath": "/SVG/Tools/Hummer#2.svg",
+    "tags": [
+      "hummer",
+      "tools"
+    ]
+  },
+  {
+    "title": "Hummer",
+    "filePath": "/SVG/Tools/Hummer.svg",
+    "tags": [
+      "hummer",
+      "tools"
+    ]
+  },
+  {
+    "title": "Pantone",
+    "filePath": "/SVG/Tools/Pantone.svg",
+    "tags": [
+      "pantone",
+      "tools"
+    ]
+  },
+  {
+    "title": "Road-Cone",
+    "filePath": "/SVG/Tools/Road-Cone.svg",
+    "tags": [
+      "road",
+      "cone",
+      "tools"
+    ]
+  },
+  {
+    "title": "Roller",
+    "filePath": "/SVG/Tools/Roller.svg",
+    "tags": [
+      "roller",
+      "tools"
+    ]
+  },
+  {
+    "title": "Roulette",
+    "filePath": "/SVG/Tools/Roulette.svg",
+    "tags": [
+      "roulette",
+      "tools"
+    ]
+  },
+  {
+    "title": "Screwdriver",
+    "filePath": "/SVG/Tools/Screwdriver.svg",
+    "tags": [
+      "screwdriver",
+      "tools"
+    ]
+  },
+  {
+    "title": "Shovel",
+    "filePath": "/SVG/Tools/Shovel.svg",
+    "tags": [
+      "shovel",
+      "tools"
+    ]
+  },
+  {
+    "title": "Spatula",
+    "filePath": "/SVG/Tools/Spatula.svg",
+    "tags": [
+      "spatula",
+      "tools"
+    ]
+  },
+  {
+    "title": "Swiss-knife",
+    "filePath": "/SVG/Tools/Swiss-knife.svg",
+    "tags": [
+      "swiss",
+      "knife",
+      "tools"
+    ]
+  },
+  {
+    "title": "Tools",
+    "filePath": "/SVG/Tools/Tools.svg",
+    "tags": [
+      "tools",
+      "tools"
+    ]
+  },
+  {
+    "title": "Celcium",
+    "filePath": "/SVG/Weather/Celcium.svg",
+    "tags": [
+      "celcium",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloud#1",
+    "filePath": "/SVG/Weather/Cloud#1.svg",
+    "tags": [
+      "cloud",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloud#2",
+    "filePath": "/SVG/Weather/Cloud#2.svg",
+    "tags": [
+      "cloud",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloud-fog",
+    "filePath": "/SVG/Weather/Cloud-fog.svg",
+    "tags": [
+      "cloud",
+      "fog",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloud-sun",
+    "filePath": "/SVG/Weather/Cloud-sun.svg",
+    "tags": [
+      "cloud",
+      "sun",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloud-wind",
+    "filePath": "/SVG/Weather/Cloud-wind.svg",
+    "tags": [
+      "cloud",
+      "wind",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloudy-night",
+    "filePath": "/SVG/Weather/Cloudy-night.svg",
+    "tags": [
+      "cloudy",
+      "night",
+      "weather"
+    ]
+  },
+  {
+    "title": "Cloudy",
+    "filePath": "/SVG/Weather/Cloudy.svg",
+    "tags": [
+      "cloudy",
+      "weather"
+    ]
+  },
+  {
+    "title": "Day-rain",
+    "filePath": "/SVG/Weather/Day-rain.svg",
+    "tags": [
+      "day",
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "title": "Fahrenheit",
+    "filePath": "/SVG/Weather/Fahrenheit.svg",
+    "tags": [
+      "fahrenheit",
+      "weather"
+    ]
+  },
+  {
+    "title": "Fog",
+    "filePath": "/SVG/Weather/Fog.svg",
+    "tags": [
+      "fog",
+      "weather"
+    ]
+  },
+  {
+    "title": "Moon",
+    "filePath": "/SVG/Weather/Moon.svg",
+    "tags": [
+      "moon",
+      "weather"
+    ]
+  },
+  {
+    "title": "Night-fog",
+    "filePath": "/SVG/Weather/Night-fog.svg",
+    "tags": [
+      "night",
+      "fog",
+      "weather"
+    ]
+  },
+  {
+    "title": "Night-rain",
+    "filePath": "/SVG/Weather/Night-rain.svg",
+    "tags": [
+      "night",
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "title": "Rain#1",
+    "filePath": "/SVG/Weather/Rain#1.svg",
+    "tags": [
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "title": "Rain#2",
+    "filePath": "/SVG/Weather/Rain#2.svg",
+    "tags": [
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "title": "Rain#5",
+    "filePath": "/SVG/Weather/Rain#5.svg",
+    "tags": [
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "title": "Rainbow",
+    "filePath": "/SVG/Weather/Rainbow.svg",
+    "tags": [
+      "rainbow",
+      "weather"
+    ]
+  },
+  {
+    "title": "Snow#1",
+    "filePath": "/SVG/Weather/Snow#1.svg",
+    "tags": [
+      "snow",
+      "weather"
+    ]
+  },
+  {
+    "title": "Snow#2",
+    "filePath": "/SVG/Weather/Snow#2.svg",
+    "tags": [
+      "snow",
+      "weather"
+    ]
+  },
+  {
+    "title": "Snow#3",
+    "filePath": "/SVG/Weather/Snow#3.svg",
+    "tags": [
+      "snow",
+      "weather"
+    ]
+  },
+  {
+    "title": "Snow",
+    "filePath": "/SVG/Weather/Snow.svg",
+    "tags": [
+      "snow",
+      "weather"
+    ]
+  },
+  {
+    "title": "Storm",
+    "filePath": "/SVG/Weather/Storm.svg",
+    "tags": [
+      "storm",
+      "weather"
+    ]
+  },
+  {
+    "title": "Sun-fog",
+    "filePath": "/SVG/Weather/Sun-fog.svg",
+    "tags": [
+      "sun",
+      "fog",
+      "weather"
+    ]
+  },
+  {
+    "title": "Sun",
+    "filePath": "/SVG/Weather/Sun.svg",
+    "tags": [
+      "sun",
+      "weather"
+    ]
+  },
+  {
+    "title": "Suset#1",
+    "filePath": "/SVG/Weather/Suset#1.svg",
+    "tags": [
+      "suset",
+      "weather"
+    ]
+  },
+  {
+    "title": "Suset#2",
+    "filePath": "/SVG/Weather/Suset#2.svg",
+    "tags": [
+      "suset",
+      "weather"
+    ]
+  },
+  {
+    "title": "Temperature-empty",
+    "filePath": "/SVG/Weather/Temperature-empty.svg",
+    "tags": [
+      "temperature",
+      "empty",
+      "weather"
+    ]
+  },
+  {
+    "title": "Temperature-full",
+    "filePath": "/SVG/Weather/Temperature-full.svg",
+    "tags": [
+      "temperature",
+      "full",
+      "weather"
+    ]
+  },
+  {
+    "title": "Temperature-half",
+    "filePath": "/SVG/Weather/Temperature-half.svg",
+    "tags": [
+      "temperature",
+      "half",
+      "weather"
+    ]
+  },
+  {
+    "title": "Thunder-night",
+    "filePath": "/SVG/Weather/Thunder-night.svg",
+    "tags": [
+      "thunder",
+      "night",
+      "weather"
+    ]
+  },
+  {
+    "title": "Thunder",
+    "filePath": "/SVG/Weather/Thunder.svg",
+    "tags": [
+      "thunder",
+      "weather"
+    ]
+  },
+  {
+    "title": "Umbrella",
+    "filePath": "/SVG/Weather/Umbrella.svg",
+    "tags": [
+      "umbrella",
+      "weather"
+    ]
+  },
+  {
+    "title": "Wind",
+    "filePath": "/SVG/Weather/Wind.svg",
+    "tags": [
+      "wind",
+      "weather"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+.modalHeader {
+  color: #5185da;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modalHeader button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #5185da;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.modalHeader button:hover {
+  background-color: #3b3b3b;
+}
+
+.modalMain {
+  margin-top: 1rem;
+}
+
+.modalMain h3 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 3px;
+}
+
+.colorInputs {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+
+.input {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.input input {
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+.newColor {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: transparent;
+  border: none;
+  font-size: 0.85rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: #5185da;
+  background-color: #555;
+}
+
+.sizeInputs {
+  margin: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  position: relative;
+  height: 20px;
+}
+
+.sizeInputs input {
+  margin-left: 1rem;
+  width: 70%;
+  -webkit-appearance: none;
+  background-color: #555;
+  height: 2px;
+}
+
+.sizeInputs input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 15px;
+  height: 15px;
+  border: none;
+  border-radius: 50%;
+  background: #5185da;
+}
+
+.sizeInputs p {
+  position: absolute;
+  right: 1rem;
+  color: #5185da;
+  font-size: 1rem;
+  transform: translateY(-2px);
+}
+
+.formatsInputs {
+  margin: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.modalFooter {
+  margin: 1.5rem 0 0.5rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.modalFooter button:first-of-type {
+  margin-right: 0.5rem;
+}
+
+.modalFooter button:last-of-type {
+  background-color: transparent;
+  color: #fff;
+}

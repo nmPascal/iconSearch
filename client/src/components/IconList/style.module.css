@@ -1,0 +1,28 @@
+.iconList {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  justify-items: center;
+
+  height: 84vh;
+  overflow-y: auto;
+  border: 1px solid #605e5c;
+  border-top: none;
+  border-radius: 0 0 5px 5px;
+}
+
+.iconList::-webkit-scrollbar {
+  width: 8px;
+  background-color: #333;
+  border-radius: 0 0 5px 0;
+}
+
+.iconList::-webkit-scrollbar-thumb {
+  background-color: #666;
+}
+
+@media screen and (max-width: 600px) {
+  .iconList {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
+}
