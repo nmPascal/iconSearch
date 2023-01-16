@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 const ICONS_RELATIVE_PATH =
-  "C:\\Users\\PascalHector\\Documents\\Dev\\Others\\iconSearch\\client\\public\\images\\icons";
+  "C:\\Users\\PascalHector\\Documents\\Dev\\Me\\iconSearch\\client\\public\\images\\icons";
 const directoryPath = path.join(__dirname, "../client/public/images/icons");
 
 //* Convert DIRS and FILES to JSON
